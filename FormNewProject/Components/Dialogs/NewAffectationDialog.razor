@@ -1,0 +1,113 @@
+﻿@using FormNewProject.Data
+@using FormNewProject.Data.Entities
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.EntityFrameworkCore
+@inject UserManager<ApplicationUser> UserManager
+@inject ApplicationDbContext context
+@inject IDialogService DialogService
+@inject ISnackbar Snackbar
+
+<MudDialog>
+    <DialogContent>
+        <MudForm @ref="form" @bind-IsValid="isFormValid">
+            <!-- Display a message if there are no users with the role "Controleuse" -->
+            @if (controleuseUsers == null || !controleuseUsers.Any())
+            {
+                <MudText Color="Color.Error">No users with the role "Controleuse" found. Please assign users to this role before proceeding.</MudText>
+            }
+            else
+            {
+                <!-- Select User with Role "Controleuse" -->
+                <MudSelect T="string" Label="Select Controleuse" @bind-Value="selectedUserId">
+                    @foreach (var user in controleuseUsers)
+                    {
+                        <MudSelectItem Value="@user.Id">@user.UserName</MudSelectItem>
+                    }
+                </MudSelect>
+
+                <!-- Select Affectation.Priority -->
+                <MudSelect T="int" Label="Select Priority" @bind-Value="affectation.Priority">
+                    <MudSelectItem Value="1">Low</MudSelectItem>
+                    <MudSelectItem Value="2">Medium</MudSelectItem>
+                    <MudSelectItem Value="3">High</MudSelectItem>
+                </MudSelect>
+
+                <!-- Select ControleType Enum -->
+                <MudSelect T="ControleType" Label="Select Controle Type" @bind-Value="affectation.ControleType">
+                    @foreach (var controleType in Enum.GetValues<ControleType>())
+                    {
+                        <MudSelectItem Value="@(controleType)">@controleType.ToString()</MudSelectItem>
+                    }
+                </MudSelect>
+
+                <!-- Filter and Select Reclamation -->
+                <MudAutocomplete T="Reclamation" Label="Select Reclamation" @bind-Value="selectedReclamation" 
+                                 SearchFunc="FilterReclamations"
+                                 ToStringFunc="@(e=> e==null? null : $"{e.Operation}")"> 
+                </MudAutocomplete>
+            }
+        </MudForm>
+    </DialogContent>
+    <DialogActions>
+        <MudButton OnClick="Save" Disabled="!isFormValid || !controleuseUsers.Any()" Variant="Variant.Filled" Color="Color.Primary">Save</MudButton>
+        <MudButton OnClick="Cancel" Variant="Variant.Text">Cancel</MudButton>
+    </DialogActions>
+</MudDialog>
+
+@code {
+    private MudForm form;
+    private bool isFormValid;
+    private Affectation affectation = new Affectation();
+    private string selectedUserId;
+    private Reclamation selectedReclamation;
+    private List<ApplicationUser> controleuseUsers=new();
+
+    [CascadingParameter]
+    private MudDialogInstance MudDialog { get; set; }
+    private IEnumerable<Reclamation> _reclamations = new List<Reclamation>();
+    protected override async Task OnInitializedAsync()
+    {
+
+        controleuseUsers = (from user in context.Users
+                join userRole in context.UserRoles on user.Id equals userRole.UserId
+                join role in context.Roles on userRole.RoleId equals role.Id
+                where role.Name == "Controleuse"
+                select user)
+            .ToList()??new();      
+    }
+
+    private async Task<IEnumerable<Reclamation>> FilterReclamations(string value,CancellationToken cancellationToken)
+    {
+        if (string.IsNullOrWhiteSpace(value))
+            return new List<Reclamation>();
+        _reclamations = await context.Reclamations
+            .Where(r => r.Operation.Contains(value)
+                        || r.Chaine.Contains(value)
+                        || r.OF.Contains(value))
+            .ToListAsync();
+        return _reclamations;
+    }
+
+    
+
+    private async Task Save()
+    {
+        if (!controleuseUsers.Any())
+        {
+            Snackbar.Add("Cannot save affectation. No Controleuse users found.", Severity.Error);
+            return;
+        }
+
+        affectation.UserId = selectedUserId;
+        affectation.Reclamation = selectedReclamation;
+
+        await context.Affectations.AddAsync(affectation);
+        await context.SaveChangesAsync();
+
+        Snackbar.Add("Affectation saved successfully", Severity.Success);
+
+        MudDialog.Close(DialogResult.Ok(true));
+    }
+    private void Cancel() => MudDialog.Cancel();
+
+}

@@ -1,0 +1,94 @@
+﻿@page "/affectations-list"
+@using FormNewProject.Components.Dialogs
+@using FormNewProject.Data
+@using FormNewProject.Data.Entities
+@using Microsoft.EntityFrameworkCore
+@inject ApplicationDbContext context
+@inject IDialogService DialogService
+
+<PageTitle>Affectations</PageTitle>
+
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="mt-5" >
+    <MudPaper Elevation="4" Class="px-4 py-4 mb-4">
+        <div class="d-flex justify-content-between align-items-center mx-3 py-3">
+            <MudText Typo="Typo.h4" GutterBottom="true">Manage Affectations</MudText>
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="OpenAffectationDialog" Class="ms-auto">
+                <MudIcon Icon="@Icons.Material.Filled.Add" Class="me-2"/>New Affectation
+            </MudButton>
+        </div>
+        <MudTextField @bind-Value="searchString" Placeholder="Search by Chaine, OF, etc."
+                      Adornment="Adornment.Start" AdornmentIcon="@Icons.Material.Filled.Search"
+                      IconSize="Size.Medium" Class="w-100 mb-4"/>
+        <MudTable Items="@affectations" Dense="true" Filter="new Func<Affectation, bool>(FilterFunc1)"
+                  @bind-SelectedItem="selectedItem" Hover="true" Bordered="true" Class="table-responsive">
+            <HeaderContent>
+                <MudTh Class="text-center">Chaine</MudTh>
+                <MudTh Class="text-center">Controle Type</MudTh>
+                <MudTh Class="text-center">OF</MudTh>
+                <MudTh Class="text-center">Priorite</MudTh>
+                <MudTh Class="text-center">Assigné à</MudTh>
+            </HeaderContent>
+            <RowTemplate>
+                <MudTd DataLabel="Chaine" Class="text-center">@context.Reclamation.Chaine</MudTd>
+                <MudTd DataLabel="Controle Type" Class="text-center">@context.ControleType.ToString()</MudTd>
+                <MudTd DataLabel="OF" Class="text-center">@context.Reclamation.OF</MudTd>
+                <MudTd DataLabel="Priorite" Class="text-center">@context.Priority</MudTd>
+                <MudTd DataLabel="Assigné à" Class="text-center">@context.UserId</MudTd>
+            </RowTemplate>
+            <PagerContent>
+                <MudTablePager/>
+            </PagerContent>
+        </MudTable>
+    </MudPaper>
+</MudContainer>
+
+@code {
+    private string searchString = "";
+    private Affectation selectedItem = null;
+    private List<Affectation> affectations = new List<Affectation>();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        affectations = await context.Affectations
+            .Include(a => a.Reclamation)
+            .ToListAsync();
+    }
+
+    private bool FilterFunc1(Affectation affectation) => FilterFunc(affectation, searchString);
+
+    private bool FilterFunc(Affectation affectation, string searchString)
+    {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+
+        if (affectation.Reclamation.Chaine.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (affectation.ControleType.ToString().Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (affectation.Reclamation.OF.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (affectation.Priority.ToString().Contains(searchString))
+            return true;
+
+        return false;
+    }
+
+    private async Task OpenAffectationDialog()
+    {
+        var options = new DialogOptions { CloseButton = true, MaxWidth = MaxWidth.Medium, FullWidth = true };
+        var dialog = await DialogService.ShowAsync<NewAffectationDialog>("New Affectation", options);
+        var result = await dialog.Result;
+        dialog.Close();
+
+        if (!result.Canceled)
+        {
+            var added = (bool)(result.Data ?? false);
+            if (added)
+            {
+                await OnParametersSetAsync();
+                StateHasChanged();
+            }
+        }
+    }
+
+}

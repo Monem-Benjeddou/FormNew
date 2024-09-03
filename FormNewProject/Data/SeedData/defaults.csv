@@ -1,0 +1,2712 @@
+﻿Opn_Id;TRet_Id;Defauls
+2140;63;"Point d’arrêt début ou fin de couture non fait "
+2209;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2080;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2117;49;"Point sauté >1 point sur la recouvrement "
+2269;72;"Décalage de couture côté >1mm  "
+2436;70;"Plis sur couture "
+2388;01;Mesures
+2247;49;"Point sauté >1 point sur la recouvrement "
+5005;47;"Echappée de couture autre que glaçage : "
+2185;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+5025;23;"Décalage agrafage "
+2140;75;Séparateur incliné
+2380;74;Manque Accessoire
+NUANCE;03;Tâche, nuance coloris
+2164;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2032;04;Défaut dentelle, broderie, fourniture
+1539;45;Fourniture ou article coupé ou troué 
+5072;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2095;63;"Point d’arrêt début ou fin de couture non fait "
+2355;20;"Grignage couture, Embu "
+2007;45;Fourniture ou article coupé ou troué 
+2355;62;"Pose agrafage sans point d’arrêt "
+2589;64;"Point mal réglé (qui glisse) "
+2071;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2200;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2389;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2170;46;Craquage de couture 
+2264;70;"Plis sur couture "
+2398;44;Couture déformée, retournée
+2331;44;Couture déformée, retournée
+2105;45;Fourniture ou article coupé ou troué 
+2220;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+5040;24;"Fil  > 3mm pour les postes à couper à ras "
+2152;08;Qualité des surpiqûres
+2416;70;"Plis sur couture "
+2083;72;"Décalage de couture côté >1mm  "
+2312;70;"Plis sur couture "
+"5073 ";53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+1539;63;"Point d’arrêt début ou fin de couture non fait "
+5999;72;"Décalage de couture côté >1mm  "
+2344;72;"Décalage de couture côté >1mm  "
+5040;65;"Point d’arrêt défectueux (non piqué) "
+1111;63;"Point d’arrêt début ou fin de couture non fait "
+2011;64;"Point mal réglé (qui glisse) "
+2190;63;"Point d’arrêt début ou fin de couture non fait "
+2090;04;Défaut dentelle, broderie, fourniture
+2315;44;Couture déformée, retournée
+2109;45;Fourniture ou article coupé ou troué 
+5060;74;Manque Accessoire
+2352;60;"Bretelle mal positionnée sur balconnet "
+2244;46;Craquage de couture 
+1547;70;"Plis sur couture "
+2320;47;"Echappée de couture autre que glaçage : "
+2020;06;Point mal réglé (aspect)
+2370;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2210;45;Fourniture ou article coupé ou troué 
+2108;08;Qualité des surpiqûres
+2497;01;Mesures
+2104;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2586;47;"Echappée de couture autre que glaçage : "
+2254;44;Couture déformée, retournée
+2330;21;"Echappée de couture glaçage "
+1101;21;"Echappée de couture glaçage "
+5049;72;"Décalage de couture côté >1mm  "
+2110;64;"Point mal réglé (qui glisse) "
+2399;72;"Décalage de couture côté >1mm  "
+2133;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2301;08;Qualité des surpiqûres
+5053;61;"Bretelle ou barrette vissée  "
+5025;06;Point mal réglé (aspect)
+2370;05;Point sauté ( 1 seul point et sauf recouvrement)
+2280;64;"Point mal réglé (qui glisse) "
+2051;71;"Non respect de cran ou de la ligne des creux   "
+2190;45;Fourniture ou article coupé ou troué 
+5072;72;"Décalage de couture côté >1mm  "
+2331;74;Manque Accessoire
+2124;20;"Grignage couture, Embu "
+2088;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2104;49;"Point sauté >1 point sur la recouvrement "
+2120;54;"Inversion Bonnets (devant/dos)  "
+2345;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2079;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+1122;46;Craquage de couture 
+2052;06;Point mal réglé (aspect)
+2280;06;Point mal réglé (aspect)
+2170;04;Défaut dentelle, broderie, fourniture
+2123;06;Point mal réglé (aspect)
+2316;72;"Décalage de couture côté >1mm  "
+2106;47;"Echappée de couture autre que glaçage : "
+2377;46;Craquage de couture 
+2140;45;Fourniture ou article coupé ou troué 
+2380;44;Couture déformée, retournée
+2001;70;"Plis sur couture "
+2238;54;"Inversion Bonnets (devant/dos)  "
+2314;20;"Grignage couture, Embu "
+2393;47;"Echappée de couture autre que glaçage : "
+2361;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2433;72;"Décalage de couture côté >1mm  "
+2220;06;Point mal réglé (aspect)
+2201;46;Craquage de couture 
+2486;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2336;05;Point sauté ( 1 seul point et sauf recouvrement)
+2070;54;"Inversion Bonnets (devant/dos)  "
+2170;20;"Grignage couture, Embu "
+2346;47;"Echappée de couture autre que glaçage : "
+2200;64;"Point mal réglé (qui glisse) "
+2191;54;"Inversion Bonnets (devant/dos)  "
+2005;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2370;11;"Solidité de la pose étiquette "
+2370;49;"Point sauté >1 point sur la recouvrement "
+2011;06;Point mal réglé (aspect)
+2209;05;Point sauté ( 1 seul point et sauf recouvrement)
+2310;47;"Echappée de couture autre que glaçage : "
+2821;44;Couture déformée, retournée
+5028;57;"Erreur taille armature  "
+2072;75;Séparateur incliné
+2339;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2221;46;Craquage de couture 
+2115;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2340;08;Qualité des surpiqûres
+"2184 ";72;"Décalage de couture côté >1mm  "
+2074;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5020;07;Bretelle mal positionnée sur SG autre que balconnet
+5004;47;"Echappée de couture autre que glaçage : "
+2074;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2110;06;Point mal réglé (aspect)
+2531;03;Tâche, nuance coloris
+2220;64;"Point mal réglé (qui glisse) "
+2079;72;"Décalage de couture côté >1mm  "
+2150;03;Tâche, nuance coloris
+2581;70;"Plis sur couture "
+2047;05;Point sauté ( 1 seul point et sauf recouvrement)
+5053;03;Tâche, nuance coloris
+2108;70;"Plis sur couture "
+2579;47;"Echappée de couture autre que glaçage : "
+5031;44;Couture déformée, retournée
+2160;47;"Echappée de couture autre que glaçage : "
+2086;45;Fourniture ou article coupé ou troué 
+2244;20;"Grignage couture, Embu "
+2124;04;Défaut dentelle, broderie, fourniture
+2352;03;Tâche, nuance coloris
+1111;45;Fourniture ou article coupé ou troué 
+2324;04;Défaut dentelle, broderie, fourniture
+2164;01;Mesures
+2152;70;"Plis sur couture "
+2301;70;"Plis sur couture "
+2375;01;Mesures
+2436;71;"Non respect de cran ou de la ligne des creux   "
+2477;66;Symétrie des mesures non respectés >2mm (décoché)
+2247;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2332;72;"Décalage de couture côté >1mm  "
+2000;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2339;70;"Plis sur couture "
+2245;72;"Décalage de couture côté >1mm  "
+2340;06;Point mal réglé (aspect)
+1520;65;"Point d’arrêt défectueux (non piqué) "
+2493;45;Fourniture ou article coupé ou troué 
+2355;64;"Point mal réglé (qui glisse) "
+2004;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2073;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2419;44;Couture déformée, retournée
+2330;64;"Point mal réglé (qui glisse) "
+2104;65;"Point d’arrêt défectueux (non piqué) "
+5020;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5020;75;Séparateur incliné
+2287;65;"Point d’arrêt défectueux (non piqué) "
+2474;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2215;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2185;05;Point sauté ( 1 seul point et sauf recouvrement)
+2071;08;Qualité des surpiqûres
+2048;47;"Echappée de couture autre que glaçage : "
+2497;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+1111;03;Tâche, nuance coloris
+2352;01;Mesures
+2085;45;Fourniture ou article coupé ou troué 
+2371;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2543;45;Fourniture ou article coupé ou troué 
+6002;47;"Echappée de couture autre que glaçage : "
+2030;54;"Inversion Bonnets (devant/dos)  "
+2408;08;Qualité des surpiqûres
+2396;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2276;64;"Point mal réglé (qui glisse) "
+5025;59;"Jeu d’armature > 1.5cm ou 0cm "
+5044;58;"Armature inversée  "
+2011;04;Défaut dentelle, broderie, fourniture
+2144;46;Craquage de couture 
+2380;72;"Décalage de couture côté >1mm  "
+1118;70;"Plis sur couture "
+1108;45;Fourniture ou article coupé ou troué 
+2030;08;Qualité des surpiqûres
+2210;47;"Echappée de couture autre que glaçage : "
+2189;45;Fourniture ou article coupé ou troué 
+2074;70;"Plis sur couture "
+2221;20;"Grignage couture, Embu "
+2050;71;"Non respect de cran ou de la ligne des creux   "
+2388;54;"Inversion Bonnets (devant/dos)  "
+2315;72;"Décalage de couture côté >1mm  "
+1510;47;"Echappée de couture autre que glaçage : "
+2301;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+5025;66;Symétrie des mesures non respectés >2mm (décoché)
+5004;63;"Point d’arrêt début ou fin de couture non fait "
+2133;08;Qualité des surpiqûres
+2474;45;Fourniture ou article coupé ou troué 
+2005;49;"Point sauté >1 point sur la recouvrement "
+2263;70;"Plis sur couture "
+2215;73;"Vignette non conforme "
+5050;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2385;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+1565;61;"Bretelle ou barrette vissée  "
+2325;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2377;44;Couture déformée, retournée
+2330;02;Mauvais épluchage (poste de dégarnissage)
+2101;44;Couture déformée, retournée
+2051;06;Point mal réglé (aspect)
+2109;47;"Echappée de couture autre que glaçage : "
+9091;54;"Inversion Bonnets (devant/dos)  "
+2591;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2106;63;"Point d’arrêt début ou fin de couture non fait "
+2050;70;"Plis sur couture "
+2319;45;Fourniture ou article coupé ou troué 
+2105;47;"Echappée de couture autre que glaçage : "
+2051;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2088;54;"Inversion Bonnets (devant/dos)  "
+2101;20;"Grignage couture, Embu "
+2029;64;"Point mal réglé (qui glisse) "
+2361;70;"Plis sur couture "
+2276;46;Craquage de couture 
+2221;44;Couture déformée, retournée
+2371;06;Point mal réglé (aspect)
+2032;64;"Point mal réglé (qui glisse) "
+2150;01;Mesures
+2127;44;Couture déformée, retournée
+2318;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2140;03;Tâche, nuance coloris
+2493;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5050;49;"Point sauté >1 point sur la recouvrement "
+2318;45;Fourniture ou article coupé ou troué 
+2484;72;"Décalage de couture côté >1mm  "
+5040;05;Point sauté ( 1 seul point et sauf recouvrement)
+2254;72;"Décalage de couture côté >1mm  "
+2200;46;Craquage de couture 
+2007;47;"Echappée de couture autre que glaçage : "
+5030;45;Fourniture ou article coupé ou troué 
+2088;08;Qualité des surpiqûres
+2191;61;"Bretelle ou barrette vissée  "
+2319;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2152;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2074;54;"Inversion Bonnets (devant/dos)  "
+2201;44;Couture déformée, retournée
+2016;45;Fourniture ou article coupé ou troué 
+"2337 ";47;"Echappée de couture autre que glaçage : "
+2375;73;"Vignette non conforme "
+5037;62;"Pose agrafage sans point d’arrêt "
+2285;72;"Décalage de couture côté >1mm  "
+2190;47;"Echappée de couture autre que glaçage : "
+2011;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2301;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2474;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2389;70;"Plis sur couture "
+2030;70;"Plis sur couture "
+2124;64;"Point mal réglé (qui glisse) "
+2352;63;"Point d’arrêt début ou fin de couture non fait "
+2517;45;Fourniture ou article coupé ou troué 
+2108;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+1122;44;Couture déformée, retournée
+5020;45;Fourniture ou article coupé ou troué 
+2388;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2029;46;Craquage de couture 
+2408;70;"Plis sur couture "
+2201;20;"Grignage couture, Embu "
+2322;70;"Plis sur couture "
+2397;46;Craquage de couture 
+2071;70;"Plis sur couture "
+5020;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2324;46;Craquage de couture 
+2244;64;"Point mal réglé (qui glisse) "
+2325;06;Point mal réglé (aspect)
+2086;47;"Echappée de couture autre que glaçage : "
+2117;05;Point sauté ( 1 seul point et sauf recouvrement)
+2473;49;"Point sauté >1 point sur la recouvrement "
+2256;49;"Point sauté >1 point sur la recouvrement "
+2248;45;Fourniture ou article coupé ou troué 
+2032;46;Craquage de couture 
+2824;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2218;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+5040;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2444;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5054;60;"Bretelle mal positionnée sur balconnet "
+2201;74;Manque Accessoire
+2095;47;"Echappée de couture autre que glaçage : "
+2330;46;Craquage de couture 
+2052;04;Défaut dentelle, broderie, fourniture
+2170;02;Mauvais épluchage (poste de dégarnissage)
+2241;06;Point mal réglé (aspect)
+5053;63;"Point d’arrêt début ou fin de couture non fait "
+2088;70;"Plis sur couture "
+2074;71;"Non respect de cran ou de la ligne des creux   "
+2165;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2215;01;Mesures
+2450;47;"Echappée de couture autre que glaçage : "
+5060;72;"Décalage de couture côté >1mm  "
+5035;06;Point mal réglé (aspect)
+5040;49;"Point sauté >1 point sur la recouvrement "
+2362;04;Défaut dentelle, broderie, fourniture
+5020;10;"L’armature non poussée "
+1557;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2493;75;Séparateur incliné
+2238;70;"Plis sur couture "
+2411;71;"Non respect de cran ou de la ligne des creux   "
+1111;47;"Echappée de couture autre que glaçage : "
+5020;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2324;64;"Point mal réglé (qui glisse) "
+2133;70;"Plis sur couture "
+2300;54;"Inversion Bonnets (devant/dos)  "
+5999;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2339;71;"Non respect de cran ou de la ligne des creux   "
+5031;72;"Décalage de couture côté >1mm  "
+2411;70;"Plis sur couture "
+2185;49;"Point sauté >1 point sur la recouvrement "
+2040;01;Mesures
+2140;47;"Echappée de couture autre que glaçage : "
+2030;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2083;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2397;64;"Point mal réglé (qui glisse) "
+2050;54;"Inversion Bonnets (devant/dos)  "
+1544;65;"Point d’arrêt défectueux (non piqué) "
+2331;20;"Grignage couture, Embu "
+2170;64;"Point mal réglé (qui glisse) "
+2320;03;Tâche, nuance coloris
+2238;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2493;47;"Echappée de couture autre que glaçage : "
+2318;65;"Point d’arrêt défectueux (non piqué) "
+1565;70;"Plis sur couture "
+2381;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2020;46;Craquage de couture 
+2210;05;Point sauté ( 1 seul point et sauf recouvrement)
+2201;72;"Décalage de couture côté >1mm  "
+2285;24;"Fil  > 3mm pour les postes à couper à ras "
+2140;51;"Solidité des nœuds "
+2221;64;"Point mal réglé (qui glisse) "
+2276;66;Symétrie des mesures non respectés >2mm (décoché)
+5033;63;"Point d’arrêt début ou fin de couture non fait "
+2215;63;"Point d’arrêt début ou fin de couture non fait "
+2385;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2316;49;"Point sauté >1 point sur la recouvrement "
+2370;45;Fourniture ou article coupé ou troué 
+1108;47;"Echappée de couture autre que glaçage : "
+5030;47;"Echappée de couture autre que glaçage : "
+1122;72;"Décalage de couture côté >1mm  "
+2318;47;"Echappée de couture autre que glaçage : "
+2592;20;"Grignage couture, Embu "
+2050;03;Tâche, nuance coloris
+2445;71;"Non respect de cran ou de la ligne des creux   "
+9091;70;"Plis sur couture "
+2340;20;"Grignage couture, Embu "
+2250;70;"Plis sur couture "
+5040;57;"Erreur taille armature  "
+2020;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2314;74;Manque Accessoire
+2172;49;"Point sauté >1 point sur la recouvrement "
+2183;49;"Point sauté >1 point sur la recouvrement "
+2828;75;Séparateur incliné
+2090;44;Couture déformée, retournée
+2073;63;"Point d’arrêt début ou fin de couture non fait "
+2338;63;"Point d’arrêt début ou fin de couture non fait "
+2375;58;"Armature inversée  "
+2315;04;Défaut dentelle, broderie, fourniture
+2070;71;"Non respect de cran ou de la ligne des creux   "
+2120;70;"Plis sur couture "
+2164;03;Tâche, nuance coloris
+2385;65;"Point d’arrêt défectueux (non piqué) "
+2140;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5054;61;"Bretelle ou barrette vissée  "
+2276;44;Couture déformée, retournée
+2444;01;Mesures
+5020;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+5045;61;"Bretelle ou barrette vissée  "
+2377;64;"Point mal réglé (qui glisse) "
+2271;75;Séparateur incliné
+2189;65;"Point d’arrêt défectueux (non piqué) "
+2244;06;Point mal réglé (aspect)
+2218;20;"Grignage couture, Embu "
+1570;47;"Echappée de couture autre que glaçage : "
+2346;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5020;11;"Solidité de la pose étiquette "
+2336;47;"Echappée de couture autre que glaçage : "
+2388;70;"Plis sur couture "
+2377;72;"Décalage de couture côté >1mm  "
+2340;21;"Echappée de couture glaçage "
+2095;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2280;08;Qualité des surpiqûres
+2079;49;"Point sauté >1 point sur la recouvrement "
+2418;72;"Décalage de couture côté >1mm  "
+2189;47;"Echappée de couture autre que glaçage : "
+2170;06;Point mal réglé (aspect)
+2472;04;Défaut dentelle, broderie, fourniture
+2105;05;Point sauté ( 1 seul point et sauf recouvrement)
+5025;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2007;51;"Solidité des nœuds "
+2220;08;Qualité des surpiqûres
+2287;45;Fourniture ou article coupé ou troué 
+2061;46;Craquage de couture 
+2070;70;"Plis sur couture "
+2221;72;"Décalage de couture côté >1mm  "
+2218;54;"Inversion Bonnets (devant/dos)  "
+1570;65;"Point d’arrêt défectueux (non piqué) "
+2319;47;"Echappée de couture autre que glaçage : "
+2396;46;Craquage de couture 
+2474;47;"Echappée de couture autre que glaçage : "
+TACHE;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2108;54;"Inversion Bonnets (devant/dos)  "
+2085;47;"Echappée de couture autre que glaçage : "
+2497;70;"Plis sur couture "
+2363;72;"Décalage de couture côté >1mm  "
+2355;44;Couture déformée, retournée
+5999;02;Mauvais épluchage (poste de dégarnissage)
+2210;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2330;44;Couture déformée, retournée
+2104;45;Fourniture ou article coupé ou troué 
+2127;64;"Point mal réglé (qui glisse) "
+5031;04;Défaut dentelle, broderie, fourniture
+5054;70;"Plis sur couture "
+2314;44;Couture déformée, retournée
+2094;45;Fourniture ou article coupé ou troué 
+2031;20;"Grignage couture, Embu "
+2419;72;"Décalage de couture côté >1mm  "
+2365;49;"Point sauté >1 point sur la recouvrement "
+2124;44;Couture déformée, retournée
+2352;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2324;44;Couture déformée, retournée
+2325;54;"Inversion Bonnets (devant/dos)  "
+2220;46;Craquage de couture 
+2016;47;"Echappée de couture autre que glaçage : "
+2194;08;Qualité des surpiqûres
+2300;71;"Non respect de cran ou de la ligne des creux   "
+2360;01;Mesures
+2377;20;"Grignage couture, Embu "
+1565;63;"Point d’arrêt début ou fin de couture non fait "
+1557;45;Fourniture ou article coupé ou troué 
+2209;45;Fourniture ou article coupé ou troué 
+2011;46;Craquage de couture 
+2452;20;"Grignage couture, Embu "
+2005;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2032;08;Qualité des surpiqûres
+5072;02;Mauvais épluchage (poste de dégarnissage)
+2191;63;"Point d’arrêt début ou fin de couture non fait "
+2330;08;Qualité des surpiqûres
+1122;06;Point mal réglé (aspect)
+2170;74;Manque Accessoire
+2280;46;Craquage de couture 
+2331;72;"Décalage de couture côté >1mm  "
+2300;70;"Plis sur couture "
+2428;01;Mesures
+2150;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5050;55;"Erreur de taille de bonnet  "
+2372;47;"Echappée de couture autre que glaçage : "
+2325;21;"Echappée de couture glaçage "
+2047;45;Fourniture ou article coupé ou troué 
+5019;46;Craquage de couture 
+5060;04;Défaut dentelle, broderie, fourniture
+2375;63;"Point d’arrêt début ou fin de couture non fait "
+2140;05;Point sauté ( 1 seul point et sauf recouvrement)
+2380;04;Défaut dentelle, broderie, fourniture
+2240;70;"Plis sur couture "
+5020;65;"Point d’arrêt défectueux (non piqué) "
+1122;64;"Point mal réglé (qui glisse) "
+2164;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2336;45;Fourniture ou article coupé ou troué 
+2826;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2127;06;Point mal réglé (aspect)
+2330;66;Symétrie des mesures non respectés >2mm (décoché)
+2096;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+5025;20;"Grignage couture, Embu "
+2124;74;Manque Accessoire
+2543;47;"Echappée de couture autre que glaçage : "
+2385;47;"Echappée de couture autre que glaçage : "
+2244;44;Couture déformée, retournée
+2373;46;Craquage de couture 
+2069;45;Fourniture ou article coupé ou troué 
+2246;49;"Point sauté >1 point sur la recouvrement "
+2248;47;"Echappée de couture autre que glaçage : "
+2090;08;Qualité des surpiqûres
+2190;05;Point sauté ( 1 seul point et sauf recouvrement)
+2346;25;"Fil  > 1cm pour les postes sur machine coupe fil "
+5050;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2221;06;Point mal réglé (aspect)
+2340;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2589;46;Craquage de couture 
+2828;45;Fourniture ou article coupé ou troué 
+2074;03;Tâche, nuance coloris
+2301;01;Mesures
+5020;47;"Echappée de couture autre que glaçage : "
+2164;70;"Plis sur couture "
+2397;44;Couture déformée, retournée
+2118;47;"Echappée de couture autre que glaçage : "
+2362;46;Craquage de couture 
+2170;44;Couture déformée, retournée
+2201;64;"Point mal réglé (qui glisse) "
+2101;06;Point mal réglé (aspect)
+5031;59;"Jeu d’armature > 1.5cm ou 0cm "
+2375;70;"Plis sur couture "
+2140;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2452;21;"Echappée de couture glaçage "
+5045;03;Tâche, nuance coloris
+2377;06;Point mal réglé (aspect)
+2037;45;Fourniture ou article coupé ou troué 
+2397;72;"Décalage de couture côté >1mm  "
+2276;06;Point mal réglé (aspect)
+2592;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2314;72;"Décalage de couture côté >1mm  "
+5054;63;"Point d’arrêt début ou fin de couture non fait "
+2124;72;"Décalage de couture côté >1mm  "
+2352;71;"Non respect de cran ou de la ligne des creux   "
+2300;63;"Point d’arrêt début ou fin de couture non fait "
+2061;44;Couture déformée, retournée
+1600;75;Séparateur incliné
+5040;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2210;65;"Point d’arrêt défectueux (non piqué) "
+2335;45;Fourniture ou article coupé ou troué 
+2049;70;"Plis sur couture "
+2090;06;Point mal réglé (aspect)
+2318;05;Point sauté ( 1 seul point et sauf recouvrement)
+2262;70;"Plis sur couture "
+2211;71;"Non respect de cran ou de la ligne des creux   "
+2190;73;"Vignette non conforme "
+2030;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2543;05;Point sauté ( 1 seul point et sauf recouvrement)
+2020;21;"Echappée de couture glaçage "
+2352;70;"Plis sur couture "
+2104;47;"Echappée de couture autre que glaçage : "
+2090;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2493;05;Point sauté ( 1 seul point et sauf recouvrement)
+2004;49;"Point sauté >1 point sur la recouvrement "
+2097;70;"Plis sur couture "
+5004;51;"Solidité des nœuds "
+2240;63;"Point d’arrêt début ou fin de couture non fait "
+5049;62;"Pose agrafage sans point d’arrêt "
+2200;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2007;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+1539;65;"Point d’arrêt défectueux (non piqué) "
+2211;70;"Plis sur couture "
+2110;20;"Grignage couture, Embu "
+2150;71;"Non respect de cran ou de la ligne des creux   "
+2287;47;"Echappée de couture autre que glaçage : "
+2085;05;Point sauté ( 1 seul point et sauf recouvrement)
+2544;73;"Vignette non conforme "
+2185;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2579;70;"Plis sur couture "
+5053;70;"Plis sur couture "
+2117;47;"Echappée de couture autre que glaçage : "
+2331;64;"Point mal réglé (qui glisse) "
+2040;03;Tâche, nuance coloris
+2170;66;Symétrie des mesures non respectés >2mm (décoché)
+5050;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2077;72;"Décalage de couture côté >1mm  "
+2256;45;Fourniture ou article coupé ou troué 
+5068;61;"Bretelle ou barrette vissée  "
+TROU;02;Mauvais épluchage (poste de dégarnissage)
+2011;20;"Grignage couture, Embu "
+5040;45;Fourniture ou article coupé ou troué 
+2393;70;"Plis sur couture "
+1991;73;"Vignette non conforme "
+5015;04;Défaut dentelle, broderie, fourniture
+1510;65;"Point d’arrêt défectueux (non piqué) "
+2330;72;"Décalage de couture côté >1mm  "
+2031;54;"Inversion Bonnets (devant/dos)  "
+2150;70;"Plis sur couture "
+2504;45;Fourniture ou article coupé ou troué 
+2005;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2474;05;Point sauté ( 1 seul point et sauf recouvrement)
+2370;47;"Echappée de couture autre que glaçage : "
+2355;72;"Décalage de couture côté >1mm  "
+2325;08;Qualité des surpiqûres
+2215;03;Tâche, nuance coloris
+2291;49;"Point sauté >1 point sur la recouvrement "
+2110;44;Couture déformée, retournée
+2381;24;"Fil  > 3mm pour les postes à couper à ras "
+2032;72;"Décalage de couture côté >1mm  "
+2185;45;Fourniture ou article coupé ou troué 
+2052;20;"Grignage couture, Embu "
+2200;74;Manque Accessoire
+2238;01;Mesures
+1096;45;Fourniture ou article coupé ou troué 
+2124;06;Point mal réglé (aspect)
+2215;70;"Plis sur couture "
+2087;70;"Plis sur couture "
+2324;06;Point mal réglé (aspect)
+2314;06;Point mal réglé (aspect)
+2094;47;"Echappée de couture autre que glaçage : "
+2325;46;Craquage de couture 
+2373;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2052;21;"Echappée de couture glaçage "
+2420;04;Défaut dentelle, broderie, fourniture
+2373;44;Couture déformée, retournée
+2269;49;"Point sauté >1 point sur la recouvrement "
+2271;47;"Echappée de couture autre que glaçage : "
+2138;75;Séparateur incliné
+2330;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2220;21;"Echappée de couture glaçage "
+2338;71;"Non respect de cran ou de la ligne des creux   "
+2052;44;Couture déformée, retournée
+2170;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2220;44;Couture déformée, retournée
+2016;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2011;08;Qualité des surpiqûres
+2040;71;"Non respect de cran ou de la ligne des creux   "
+2123;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5031;02;Mauvais épluchage (poste de dégarnissage)
+2436;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2052;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2280;20;"Grignage couture, Embu "
+2185;75;Séparateur incliné
+2276;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+5072;62;"Pose agrafage sans point d’arrêt "
+2244;72;"Décalage de couture côté >1mm  "
+5999;49;"Point sauté >1 point sur la recouvrement "
+2477;46;Craquage de couture 
+2011;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2200;44;Couture déformée, retournée
+2338;70;"Plis sur couture "
+5050;57;"Erreur taille armature  "
+2117;45;Fourniture ou article coupé ou troué 
+2140;65;"Point d’arrêt défectueux (non piqué) "
+2380;64;"Point mal réglé (qui glisse) "
+2218;46;Craquage de couture 
+2032;06;Point mal réglé (aspect)
+2355;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2073;70;"Plis sur couture "
+2330;06;Point mal réglé (aspect)
+2047;47;"Echappée de couture autre que glaçage : "
+"5073 ";45;Fourniture ou article coupé ou troué 
+2001;60;"Bretelle mal positionnée sur balconnet "
+2133;01;Mesures
+2828;47;"Echappée de couture autre que glaçage : "
+2250;03;Tâche, nuance coloris
+5045;63;"Point d’arrêt début ou fin de couture non fait "
+2245;64;"Point mal réglé (qui glisse) "
+2247;45;Fourniture ou article coupé ou troué 
+2061;08;Qualité des surpiqûres
+2160;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+9100;47;"Echappée de couture autre que glaçage : "
+2209;47;"Echappée de couture autre que glaçage : "
+2229;45;Fourniture ou article coupé ou troué 
+5040;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2280;44;Couture déformée, retournée
+2040;70;"Plis sur couture "
+2493;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2110;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2170;72;"Décalage de couture côté >1mm  "
+5020;05;Point sauté ( 1 seul point et sauf recouvrement)
+1122;04;Défaut dentelle, broderie, fourniture
+1111;65;"Point d’arrêt défectueux (non piqué) "
+2312;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2335;47;"Echappée de couture autre que glaçage : "
+2000;04;Défaut dentelle, broderie, fourniture
+2140;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2079;21;"Echappée de couture glaçage "
+2215;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5031;23;"Décalage agrafage "
+2142;04;Défaut dentelle, broderie, fourniture
+5025;56;"Erreur référence armature  "
+2052;25;"Fil  > 1cm pour les postes sur machine coupe fil "
+2150;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2316;20;"Grignage couture, Embu "
+5050;63;"Point d’arrêt début ou fin de couture non fait "
+2250;64;"Point mal réglé (qui glisse) "
+2185;47;"Echappée de couture autre que glaçage : "
+2164;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2544;70;"Plis sur couture "
+2320;71;"Non respect de cran ou de la ligne des creux   "
+2373;72;"Décalage de couture côté >1mm  "
+2340;44;Couture déformée, retournée
+2115;45;Fourniture ou article coupé ou troué 
+2263;04;Défaut dentelle, broderie, fourniture
+2388;06;Point mal réglé (aspect)
+2215;51;"Solidité des nœuds "
+2586;70;"Plis sur couture "
+2473;47;"Echappée de couture autre que glaçage : "
+2183;45;Fourniture ou article coupé ou troué 
+2339;04;Défaut dentelle, broderie, fourniture
+2201;65;"Point d’arrêt défectueux (non piqué) "
+2220;72;"Décalage de couture côté >1mm  "
+2030;46;Craquage de couture 
+2246;45;Fourniture ou article coupé ou troué 
+2320;70;"Plis sur couture "
+2123;72;"Décalage de couture côté >1mm  "
+2150;66;Symétrie des mesures non respectés >2mm (décoché)
+2312;46;Craquage de couture 
+2080;47;"Echappée de couture autre que glaçage : "
+5050;75;Séparateur incliné
+5021;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+1096;61;"Bretelle ou barrette vissée  "
+2247;03;Tâche, nuance coloris
+2497;06;Point mal réglé (aspect)
+5072;20;"Grignage couture, Embu "
+2074;04;Défaut dentelle, broderie, fourniture
+2202;47;"Echappée de couture autre que glaçage : "
+2221;65;"Point d’arrêt défectueux (non piqué) "
+2086;70;"Plis sur couture "
+2315;05;Point sauté ( 1 seul point et sauf recouvrement)
+2087;06;Point mal réglé (aspect)
+2330;54;"Inversion Bonnets (devant/dos)  "
+2375;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+1111;71;"Non respect de cran ou de la ligne des creux   "
+2011;72;"Décalage de couture côté >1mm  "
+2120;64;"Point mal réglé (qui glisse) "
+2320;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2365;45;Fourniture ou article coupé ou troué 
+2218;44;Couture déformée, retournée
+5025;74;Manque Accessoire
+2125;05;Point sauté ( 1 seul point et sauf recouvrement)
+2828;01;Mesures
+1111;70;"Plis sur couture "
+5068;02;Mauvais épluchage (poste de dégarnissage)
+2160;66;Symétrie des mesures non respectés >2mm (décoché)
+2110;72;"Décalage de couture côté >1mm  "
+1122;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2190;70;"Plis sur couture "
+2531;08;Qualité des surpiqûres
+2504;47;"Echappée de couture autre que glaçage : "
+2040;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2215;06;Point mal réglé (aspect)
+2346;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2138;47;"Echappée de couture autre que glaçage : "
+2389;46;Craquage de couture 
+2052;54;"Inversion Bonnets (devant/dos)  "
+2005;63;"Point d’arrêt début ou fin de couture non fait "
+2191;64;"Point mal réglé (qui glisse) "
+2170;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2070;64;"Point mal réglé (qui glisse) "
+2331;49;"Point sauté >1 point sur la recouvrement "
+2361;04;Défaut dentelle, broderie, fourniture
+2829;75;Séparateur incliné
+2001;74;Manque Accessoire
+5040;47;"Echappée de couture autre que glaçage : "
+2240;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2164;64;"Point mal réglé (qui glisse) "
+2210;73;"Vignette non conforme "
+2020;74;Manque Accessoire
+2375;06;Point mal réglé (aspect)
+2370;03;Tâche, nuance coloris
+2133;04;Défaut dentelle, broderie, fourniture
+2005;45;Fourniture ou article coupé ou troué 
+2240;06;Point mal réglé (aspect)
+2542;47;"Echappée de couture autre que glaçage : "
+2030;04;Défaut dentelle, broderie, fourniture
+2301;46;Craquage de couture 
+2048;73;"Vignette non conforme "
+2385;01;Mesures
+2531;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2454;46;Craquage de couture 
+2543;73;"Vignette non conforme "
+2300;64;"Point mal réglé (qui glisse) "
+2083;20;"Grignage couture, Embu "
+2325;44;Couture déformée, retournée
+2365;20;"Grignage couture, Embu "
+2215;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2340;74;Manque Accessoire
+2247;47;"Echappée de couture autre que glaçage : "
+5031;49;"Point sauté >1 point sur la recouvrement "
+2200;72;"Décalage de couture côté >1mm  "
+5054;64;"Point mal réglé (qui glisse) "
+2110;54;"Inversion Bonnets (devant/dos)  "
+2314;54;"Inversion Bonnets (devant/dos)  "
+2164;06;Point mal réglé (aspect)
+2004;05;Point sauté ( 1 seul point et sauf recouvrement)
+5034;62;"Pose agrafage sans point d’arrêt "
+5053;51;"Solidité des nœuds "
+2104;03;Tâche, nuance coloris
+2285;05;Point sauté ( 1 seul point et sauf recouvrement)
+2140;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2313;44;Couture déformée, retournée
+2073;66;Symétrie des mesures non respectés >2mm (décoché)
+2315;49;"Point sauté >1 point sur la recouvrement "
+2170;54;"Inversion Bonnets (devant/dos)  "
+2256;47;"Echappée de couture autre que glaçage : "
+2150;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2416;46;Craquage de couture 
+2185;63;"Point d’arrêt début ou fin de couture non fait "
+2047;61;"Bretelle ou barrette vissée  "
+2310;70;"Plis sur couture "
+2191;06;Point mal réglé (aspect)
+2020;44;Couture déformée, retournée
+2150;08;Qualité des surpiqûres
+2105;73;"Vignette non conforme "
+2585;45;Fourniture ou article coupé ou troué 
+2005;75;Séparateur incliné
+2070;06;Point mal réglé (aspect)
+9090;70;"Plis sur couture "
+2375;64;"Point mal réglé (qui glisse) "
+2193;44;Couture déformée, retournée
+5025;44;Couture déformée, retournée
+2186;47;"Echappée de couture autre que glaçage : "
+2330;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2832;72;"Décalage de couture côté >1mm  "
+2380;49;"Point sauté >1 point sur la recouvrement "
+2005;20;"Grignage couture, Embu "
+2250;06;Point mal réglé (aspect)
+5050;45;Fourniture ou article coupé ou troué 
+2024;47;"Echappée de couture autre que glaçage : "
+2361;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+1096;47;"Echappée de couture autre que glaçage : "
+2345;45;Fourniture ou article coupé ou troué 
+2120;06;Point mal réglé (aspect)
+5050;20;"Grignage couture, Embu "
+2280;72;"Décalage de couture côté >1mm  "
+2032;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2493;01;Mesures
+2581;46;Craquage de couture 
+2252;44;Couture déformée, retournée
+2436;46;Craquage de couture 
+2349;47;"Echappée de couture autre que glaçage : "
+5040;63;"Point d’arrêt début ou fin de couture non fait "
+2240;64;"Point mal réglé (qui glisse) "
+2115;47;"Echappée de couture autre que glaçage : "
+2416;44;Couture déformée, retournée
+5050;03;Tâche, nuance coloris
+2250;04;Défaut dentelle, broderie, fourniture
+2579;06;Point mal réglé (aspect)
+5050;21;"Echappée de couture glaçage "
+2454;74;Manque Accessoire
+2361;64;"Point mal réglé (qui glisse) "
+2070;04;Défaut dentelle, broderie, fourniture
+2073;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2106;06;Point mal réglé (aspect)
+2005;03;Tâche, nuance coloris
+2191;04;Défaut dentelle, broderie, fourniture
+2312;44;Couture déformée, retournée
+2105;70;"Plis sur couture "
+2209;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5040;55;"Erreur de taille de bonnet  "
+2388;04;Défaut dentelle, broderie, fourniture
+2183;47;"Echappée de couture autre que glaçage : "
+5053;06;Point mal réglé (aspect)
+2014;47;"Echappée de couture autre que glaçage : "
+2005;21;"Echappée de couture glaçage "
+2215;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+5045;64;"Point mal réglé (qui glisse) "
+2521;44;Couture déformée, retournée
+2087;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2325;72;"Décalage de couture côté >1mm  "
+2150;06;Point mal réglé (aspect)
+2436;44;Couture déformée, retournée
+2208;45;Fourniture ou article coupé ou troué 
+2224;47;"Echappée de couture autre que glaçage : "
+1096;01;Mesures
+2071;44;Couture déformée, retournée
+2201;05;Point sauté ( 1 seul point et sauf recouvrement)
+2083;45;Fourniture ou article coupé ou troué 
+2339;64;"Point mal réglé (qui glisse) "
+2365;47;"Echappée de couture autre que glaçage : "
+2263;46;Craquage de couture 
+2140;08;Qualité des surpiqûres
+2007;70;"Plis sur couture "
+5031;20;"Grignage couture, Embu "
+2209;73;"Vignette non conforme "
+2372;70;"Plis sur couture "
+2241;72;"Décalage de couture côté >1mm  "
+2244;49;"Point sauté >1 point sur la recouvrement "
+2211;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2361;46;Craquage de couture 
+5072;47;"Echappée de couture autre que glaçage : "
+2109;08;Qualité des surpiqûres
+1123;45;Fourniture ou article coupé ou troué 
+2172;47;"Echappée de couture autre que glaçage : "
+5040;20;"Grignage couture, Embu "
+2381;47;"Echappée de couture autre que glaçage : "
+2433;45;Fourniture ou article coupé ou troué 
+2218;72;"Décalage de couture côté >1mm  "
+2221;05;Point sauté ( 1 seul point et sauf recouvrement)
+2016;70;"Plis sur couture "
+5999;45;Fourniture ou article coupé ou troué 
+2300;46;Craquage de couture 
+2124;54;"Inversion Bonnets (devant/dos)  "
+2095;08;Qualité des surpiqûres
+2215;66;Symétrie des mesures non respectés >2mm (décoché)
+2213;64;"Point mal réglé (qui glisse) "
+1096;63;"Point d’arrêt début ou fin de couture non fait "
+2310;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2246;47;"Echappée de couture autre que glaçage : "
+2150;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2117;01;Mesures
+2172;75;Séparateur incliné
+2083;75;Séparateur incliné
+2269;45;Fourniture ou article coupé ou troué 
+2281;05;Point sauté ( 1 seul point et sauf recouvrement)
+2375;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2210;08;Qualité des surpiqûres
+2164;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+1557;61;"Bretelle ou barrette vissée  "
+2375;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2083;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2578;03;Tâche, nuance coloris
+2005;47;"Echappée de couture autre que glaçage : "
+2474;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5028;45;Fourniture ou article coupé ou troué 
+2335;21;"Echappée de couture glaçage "
+2140;70;"Plis sur couture "
+5050;47;"Echappée de couture autre que glaçage : "
+2120;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2185;20;"Grignage couture, Embu "
+2152;44;Couture déformée, retournée
+2074;46;Craquage de couture 
+2397;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2472;05;Point sauté ( 1 seul point et sauf recouvrement)
+2077;54;"Inversion Bonnets (devant/dos)  "
+2104;01;Mesures
+2255;45;Fourniture ou article coupé ou troué 
+2359;47;"Echappée de couture autre que glaçage : "
+2147;47;"Echappée de couture autre que glaçage : "
+2140;71;"Non respect de cran ou de la ligne des creux   "
+5040;21;"Echappée de couture glaçage "
+2352;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2088;64;"Point mal réglé (qui glisse) "
+2029;54;"Inversion Bonnets (devant/dos)  "
+2080;20;"Grignage couture, Embu "
+2824;64;"Point mal réglé (qui glisse) "
+2477;72;"Décalage de couture côté >1mm  "
+5072;45;Fourniture ou article coupé ou troué 
+2493;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2399;45;Fourniture ou article coupé ou troué 
+2120;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2345;47;"Echappée de couture autre que glaçage : "
+2079;45;Fourniture ou article coupé ou troué 
+2301;44;Couture déformée, retournée
+2020;72;"Décalage de couture côté >1mm  "
+2210;71;"Non respect de cran ou de la ligne des creux   "
+2073;06;Point mal réglé (aspect)
+2032;54;"Inversion Bonnets (devant/dos)  "
+2254;05;Point sauté ( 1 seul point et sauf recouvrement)
+2040;06;Point mal réglé (aspect)
+5054;04;Défaut dentelle, broderie, fourniture
+2408;64;"Point mal réglé (qui glisse) "
+2473;20;"Grignage couture, Embu "
+2581;44;Couture déformée, retournée
+2300;04;Défaut dentelle, broderie, fourniture
+2420;49;"Point sauté >1 point sur la recouvrement "
+2432;47;"Echappée de couture autre que glaçage : "
+5049;65;"Point d’arrêt défectueux (non piqué) "
+2444;64;"Point mal réglé (qui glisse) "
+2524;45;Fourniture ou article coupé ou troué 
+2238;46;Craquage de couture 
+2108;44;Couture déformée, retournée
+2050;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2381;45;Fourniture ou article coupé ou troué 
+2133;46;Craquage de couture 
+2101;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2280;54;"Inversion Bonnets (devant/dos)  "
+2191;66;Symétrie des mesures non respectés >2mm (décoché)
+2483;06;Point mal réglé (aspect)
+2450;70;"Plis sur couture "
+2370;01;Mesures
+2313;72;"Décalage de couture côté >1mm  "
+5025;72;"Décalage de couture côté >1mm  "
+2377;49;"Point sauté >1 point sur la recouvrement "
+2144;54;"Inversion Bonnets (devant/dos)  "
+2500;44;Couture déformée, retournée
+2172;45;Fourniture ou article coupé ou troué 
+5060;65;"Point d’arrêt défectueux (non piqué) "
+2388;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+1570;61;"Bretelle ou barrette vissée  "
+2576;46;Craquage de couture 
+2101;49;"Point sauté >1 point sur la recouvrement "
+6030;47;"Echappée de couture autre que glaçage : "
+2140;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2030;64;"Point mal réglé (qui glisse) "
+2581;74;Manque Accessoire
+2252;72;"Décalage de couture côté >1mm  "
+2051;44;Couture déformée, retournée
+2585;47;"Echappée de couture autre que glaçage : "
+2388;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+5040;03;Tâche, nuance coloris
+2240;04;Défaut dentelle, broderie, fourniture
+2095;70;"Plis sur couture "
+2310;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2316;45;Fourniture ou article coupé ou troué 
+2097;06;Point mal réglé (aspect)
+2276;54;"Inversion Bonnets (devant/dos)  "
+2007;71;"Non respect de cran ou de la ligne des creux   "
+2150;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+1111;08;Qualité des surpiqûres
+2352;06;Point mal réglé (aspect)
+5030;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+TACHE;72;"Décalage de couture côté >1mm  "
+2164;04;Défaut dentelle, broderie, fourniture
+2079;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2238;64;"Point mal réglé (qui glisse) "
+1517;65;"Point d’arrêt défectueux (non piqué) "
+2133;64;"Point mal réglé (qui glisse) "
+2200;54;"Inversion Bonnets (devant/dos)  "
+2210;70;"Plis sur couture "
+2085;70;"Plis sur couture "
+2319;70;"Plis sur couture "
+2269;65;"Point d’arrêt défectueux (non piqué) "
+2209;63;"Point d’arrêt début ou fin de couture non fait "
+2152;72;"Décalage de couture côté >1mm  "
+2083;47;"Echappée de couture autre que glaçage : "
+5031;75;Séparateur incliné
+2105;55;"Erreur de taille de bonnet  "
+2215;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2030;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5020;03;Tâche, nuance coloris
+2215;46;Craquage de couture 
+2428;72;"Décalage de couture côté >1mm  "
+2312;06;Point mal réglé (aspect)
+2474;70;"Plis sur couture "
+2301;72;"Décalage de couture côté >1mm  "
+2389;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+TROU;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2241;04;Défaut dentelle, broderie, fourniture
+2361;44;Couture déformée, retournée
+5060;75;Séparateur incliné
+1123;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2083;65;"Point d’arrêt défectueux (non piqué) "
+2107;08;Qualité des surpiqûres
+TROU;20;"Grignage couture, Embu "
+2189;70;"Plis sur couture "
+2315;45;Fourniture ou article coupé ou troué 
+2269;47;"Echappée de couture autre que glaçage : "
+2472;54;"Inversion Bonnets (devant/dos)  "
+2355;49;"Point sauté >1 point sur la recouvrement "
+2433;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2224;05;Point sauté ( 1 seul point et sauf recouvrement)
+2004;47;"Echappée de couture autre que glaçage : "
+2032;49;"Point sauté >1 point sur la recouvrement "
+2108;72;"Décalage de couture côté >1mm  "
+2336;71;"Non respect de cran ou de la ligne des creux   "
+2581;72;"Décalage de couture côté >1mm  "
+2125;45;Fourniture ou article coupé ou troué 
+2050;44;Couture déformée, retournée
+2388;46;Craquage de couture 
+2029;49;"Point sauté >1 point sur la recouvrement "
+1557;70;"Plis sur couture "
+2339;44;Couture déformée, retournée
+2285;47;"Echappée de couture autre que glaçage : "
+TROU;54;"Inversion Bonnets (devant/dos)  "
+2030;06;Point mal réglé (aspect)
+2336;70;"Plis sur couture "
+2389;06;Point mal réglé (aspect)
+5031;45;Fourniture ou article coupé ou troué 
+2240;08;Qualité des surpiqûres
+2444;06;Point mal réglé (aspect)
+5049;47;"Echappée de couture autre que glaçage : "
+2152;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2074;44;Couture déformée, retournée
+2176;45;Fourniture ou article coupé ou troué 
+"2028 ";46;Craquage de couture 
+2245;45;Fourniture ou article coupé ou troué 
+2011;02;Mauvais épluchage (poste de dégarnissage)
+5031;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2315;54;"Inversion Bonnets (devant/dos)  "
+2050;74;Manque Accessoire
+2433;47;"Echappée de couture autre que glaçage : "
+5071;45;Fourniture ou article coupé ou troué 
+2088;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+1123;47;"Echappée de couture autre que glaçage : "
+2200;49;"Point sauté >1 point sur la recouvrement "
+1547;64;"Point mal réglé (qui glisse) "
+2821;45;Fourniture ou article coupé ou troué 
+5999;47;"Echappée de couture autre que glaçage : "
+2312;64;"Point mal réglé (qui glisse) "
+2115;05;Point sauté ( 1 seul point et sauf recouvrement)
+5049;75;Séparateur incliné
+2380;45;Fourniture ou article coupé ou troué 
+2263;44;Couture déformée, retournée
+1504;47;"Echappée de couture autre que glaçage : "
+2073;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2314;49;"Point sauté >1 point sur la recouvrement "
+5020;70;"Plis sur couture "
+2340;72;"Décalage de couture côté >1mm  "
+5025;04;Défaut dentelle, broderie, fourniture
+2152;64;"Point mal réglé (qui glisse) "
+2324;49;"Point sauté >1 point sur la recouvrement "
+TACHE;04;Défaut dentelle, broderie, fourniture
+2108;06;Point mal réglé (aspect)
+2101;54;"Inversion Bonnets (devant/dos)  "
+2120;46;Craquage de couture 
+2352;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2124;49;"Point sauté >1 point sur la recouvrement "
+5050;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+5025;62;"Pose agrafage sans point d’arrêt "
+2189;63;"Point d’arrêt début ou fin de couture non fait "
+5030;63;"Point d’arrêt début ou fin de couture non fait "
+2313;04;Défaut dentelle, broderie, fourniture
+5046;72;"Décalage de couture côté >1mm  "
+2030;74;Manque Accessoire
+2452;04;Défaut dentelle, broderie, fourniture
+2380;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2001;72;"Décalage de couture côté >1mm  "
+2375;46;Craquage de couture 
+2408;44;Couture déformée, retournée
+5072;65;"Point d’arrêt défectueux (non piqué) "
+2581;64;"Point mal réglé (qui glisse) "
+2238;66;Symétrie des mesures non respectés >2mm (décoché)
+2399;47;"Echappée de couture autre que glaçage : "
+2262;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2172;65;"Point d’arrêt défectueux (non piqué) "
+2034;47;"Echappée de couture autre que glaçage : "
+2349;73;"Vignette non conforme "
+2108;64;"Point mal réglé (qui glisse) "
+2088;44;Couture déformée, retournée
+2190;55;"Erreur de taille de bonnet  "
+2191;46;Craquage de couture 
+2013;45;Fourniture ou article coupé ou troué 
+2248;70;"Plis sur couture "
+2210;03;Tâche, nuance coloris
+2020;04;Défaut dentelle, broderie, fourniture
+2240;46;Craquage de couture 
+5049;45;Fourniture ou article coupé ou troué 
+2824;44;Couture déformée, retournée
+2316;47;"Echappée de couture autre que glaçage : "
+2301;06;Point mal réglé (aspect)
+2074;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2070;46;Craquage de couture 
+2140;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+5045;08;Qualité des surpiqûres
+2170;49;"Point sauté >1 point sur la recouvrement "
+2423;47;"Echappée de couture autre que glaçage : "
+2305;20;"Grignage couture, Embu "
+2543;70;"Plis sur couture "
+2332;47;"Echappée de couture autre que glaçage : "
+1111;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2389;44;Couture déformée, retournée
+"2184 ";65;"Point d’arrêt défectueux (non piqué) "
+2134;04;Défaut dentelle, broderie, fourniture
+5050;05;Point sauté ( 1 seul point et sauf recouvrement)
+2125;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5060;45;Fourniture ou article coupé ou troué 
+1570;63;"Point d’arrêt début ou fin de couture non fait "
+2208;47;"Echappée de couture autre que glaçage : "
+2215;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2385;70;"Plis sur couture "
+2371;72;"Décalage de couture côté >1mm  "
+2164;46;Craquage de couture 
+2004;45;Fourniture ou article coupé ou troué 
+2104;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2436;06;Point mal réglé (aspect)
+2050;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2285;45;Fourniture ou article coupé ou troué 
+2301;64;"Point mal réglé (qui glisse) "
+1510;61;"Bretelle ou barrette vissée  "
+2291;45;Fourniture ou article coupé ou troué 
+5030;70;"Plis sur couture "
+2315;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2388;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2497;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+1570;70;"Plis sur couture "
+2416;06;Point mal réglé (aspect)
+2318;70;"Plis sur couture "
+2370;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2133;44;Couture déformée, retournée
+1539;61;"Bretelle ou barrette vissée  "
+2030;44;Couture déformée, retournée
+2383;45;Fourniture ou article coupé ou troué 
+2585;05;Point sauté ( 1 seul point et sauf recouvrement)
+TROU;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2338;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2238;44;Couture déformée, retournée
+2079;47;"Echappée de couture autre que glaçage : "
+2040;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2493;70;"Plis sur couture "
+2150;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2223;46;Craquage de couture 
+2425;45;Fourniture ou article coupé ou troué 
+2404;47;"Echappée de couture autre que glaçage : "
+5020;63;"Point d’arrêt début ou fin de couture non fait "
+5072;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2370;70;"Plis sur couture "
+5071;47;"Echappée de couture autre que glaçage : "
+1111;61;"Bretelle ou barrette vissée  "
+2472;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+1122;45;Fourniture ou article coupé ou troué 
+2088;72;"Décalage de couture côté >1mm  "
+2477;64;"Point mal réglé (qui glisse) "
+2821;47;"Echappée de couture autre que glaçage : "
+1111;60;"Bretelle mal positionnée sur balconnet "
+2269;05;Point sauté ( 1 seul point et sauf recouvrement)
+2050;06;Point mal réglé (aspect)
+2380;47;"Echappée de couture autre que glaçage : "
+2398;47;"Echappée de couture autre que glaçage : "
+2316;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2088;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2094;03;Tâche, nuance coloris
+2385;63;"Point d’arrêt début ou fin de couture non fait "
+2375;74;Manque Accessoire
+2285;20;"Grignage couture, Embu "
+2074;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+5050;73;"Vignette non conforme "
+1565;74;Manque Accessoire
+2361;06;Point mal réglé (aspect)
+2101;45;Fourniture ou article coupé ou troué 
+5031;54;"Inversion Bonnets (devant/dos)  "
+2377;45;Fourniture ou article coupé ou troué 
+2245;47;"Echappée de couture autre que glaçage : "
+2365;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2191;74;Manque Accessoire
+2312;66;Symétrie des mesures non respectés >2mm (décoché)
+2221;45;Fourniture ou article coupé ou troué 
+2213;06;Point mal réglé (aspect)
+2339;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2594;45;Fourniture ou article coupé ou troué 
+2320;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2087;08;Qualité des surpiqûres
+2322;66;Symétrie des mesures non respectés >2mm (décoché)
+2339;72;"Décalage de couture côté >1mm  "
+2396;49;"Point sauté >1 point sur la recouvrement "
+2375;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2497;44;Couture déformée, retournée
+2254;47;"Echappée de couture autre que glaçage : "
+2079;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2040;08;Qualité des surpiqûres
+5054;06;Point mal réglé (aspect)
+2223;44;Couture déformée, retournée
+2150;46;Craquage de couture 
+2287;03;Tâche, nuance coloris
+2201;45;Fourniture ou article coupé ou troué 
+2176;47;"Echappée de couture autre que glaçage : "
+1118;72;"Décalage de couture côté >1mm  "
+5027;47;"Echappée de couture autre que glaçage : "
+2210;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2020;49;"Point sauté >1 point sur la recouvrement "
+5046;64;"Point mal réglé (qui glisse) "
+2083;05;Point sauté ( 1 seul point et sauf recouvrement)
+2472;47;"Echappée de couture autre que glaçage : "
+2120;44;Couture déformée, retournée
+2186;70;"Plis sur couture "
+2125;47;"Echappée de couture autre que glaçage : "
+2579;46;Craquage de couture 
+2250;44;Couture déformée, retournée
+2047;03;Tâche, nuance coloris
+2361;72;"Décalage de couture côté >1mm  "
+2340;64;"Point mal réglé (qui glisse) "
+2164;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2191;44;Couture déformée, retournée
+2220;62;"Pose agrafage sans point d’arrêt "
+1123;21;"Echappée de couture glaçage "
+2118;63;"Point d’arrêt début ou fin de couture non fait "
+2301;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2034;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2117;70;"Plis sur couture "
+2263;72;"Décalage de couture côté >1mm  "
+1565;44;Couture déformée, retournée
+2388;44;Couture déformée, retournée
+5025;58;"Armature inversée  "
+2218;02;Mauvais épluchage (poste de dégarnissage)
+2247;70;"Plis sur couture "
+2315;47;"Echappée de couture autre que glaçage : "
+2300;06;Point mal réglé (aspect)
+2472;75;Séparateur incliné
+2350;71;"Non respect de cran ou de la ligne des creux   "
+2209;70;"Plis sur couture "
+TACHE;64;"Point mal réglé (qui glisse) "
+2445;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2238;06;Point mal réglé (aspect)
+2262;46;Craquage de couture 
+2418;45;Fourniture ou article coupé ou troué 
+2120;08;Qualité des surpiqûres
+2097;46;Craquage de couture 
+2331;45;Fourniture ou article coupé ou troué 
+2047;70;"Plis sur couture "
+2493;03;Tâche, nuance coloris
+2316;05;Point sauté ( 1 seul point et sauf recouvrement)
+5030;03;Tâche, nuance coloris
+2252;64;"Point mal réglé (qui glisse) "
+2240;44;Couture déformée, retournée
+5040;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5020;55;"Erreur de taille de bonnet  "
+2388;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2375;44;Couture déformée, retournée
+2544;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2269;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2050;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2164;44;Couture déformée, retournée
+2047;71;"Non respect de cran ou de la ligne des creux   "
+2425;47;"Echappée de couture autre que glaçage : "
+2269;20;"Grignage couture, Embu "
+2005;65;"Point d’arrêt défectueux (non piqué) "
+2230;47;"Echappée de couture autre que glaçage : "
+2373;49;"Point sauté >1 point sur la recouvrement "
+2005;07;Bretelle mal positionnée sur SG autre que balconnet
+2474;03;Tâche, nuance coloris
+2381;05;Point sauté ( 1 seul point et sauf recouvrement)
+2133;06;Point mal réglé (aspect)
+2125;54;"Inversion Bonnets (devant/dos)  "
+5050;07;Bretelle mal positionnée sur SG autre que balconnet
+2094;70;"Plis sur couture "
+2165;44;Couture déformée, retournée
+5040;59;"Jeu d’armature > 1.5cm ou 0cm "
+2584;47;"Echappée de couture autre que glaçage : "
+2071;72;"Décalage de couture côté >1mm  "
+TROU;45;Fourniture ou article coupé ou troué 
+2133;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2280;49;"Point sauté >1 point sur la recouvrement "
+5031;47;"Echappée de couture autre que glaçage : "
+2172;05;Point sauté ( 1 seul point et sauf recouvrement)
+2201;54;"Inversion Bonnets (devant/dos)  "
+2291;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2140;57;"Erreur taille armature  "
+1570;03;Tâche, nuance coloris
+2140;01;Mesures
+2210;63;"Point d’arrêt début ou fin de couture non fait "
+2020;64;"Point mal réglé (qui glisse) "
+2388;74;Manque Accessoire
+2590;08;Qualité des surpiqûres
+5040;73;"Vignette non conforme "
+2190;57;"Erreur taille armature  "
+2185;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2287;70;"Plis sur couture "
+2073;46;Craquage de couture 
+2083;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2079;05;Point sauté ( 1 seul point et sauf recouvrement)
+2300;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2352;46;Craquage de couture 
+2040;46;Craquage de couture 
+2254;45;Fourniture ou article coupé ou troué 
+2383;47;"Echappée de couture autre que glaçage : "
+2104;70;"Plis sur couture "
+2339;06;Point mal réglé (aspect)
+2416;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2827;21;"Echappée de couture glaçage "
+2325;64;"Point mal réglé (qui glisse) "
+2300;44;Couture déformée, retournée
+TACHE;02;Mauvais épluchage (poste de dégarnissage)
+5037;45;Fourniture ou article coupé ou troué 
+5060;47;"Echappée de couture autre que glaçage : "
+2079;20;"Grignage couture, Embu "
+2133;72;"Décalage de couture côté >1mm  "
+2152;04;Défaut dentelle, broderie, fourniture
+2074;06;Point mal réglé (aspect)
+2589;49;"Point sauté >1 point sur la recouvrement "
+5025;02;Mauvais épluchage (poste de dégarnissage)
+2010;04;Défaut dentelle, broderie, fourniture
+2255;05;Point sauté ( 1 seul point et sauf recouvrement)
+2164;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2004;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2291;47;"Echappée de couture autre que glaçage : "
+2220;49;"Point sauté >1 point sur la recouvrement "
+2007;63;"Point d’arrêt début ou fin de couture non fait "
+2420;75;Séparateur incliné
+2454;04;Défaut dentelle, broderie, fourniture
+2030;72;"Décalage de couture côté >1mm  "
+2375;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2238;72;"Décalage de couture côté >1mm  "
+5050;65;"Point d’arrêt défectueux (non piqué) "
+2361;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2316;73;"Vignette non conforme "
+2377;47;"Echappée de couture autre que glaçage : "
+2016;20;"Grignage couture, Embu "
+5025;51;"Solidité des nœuds "
+2024;08;Qualité des surpiqûres
+2105;04;Défaut dentelle, broderie, fourniture
+2331;03;Tâche, nuance coloris
+2281;47;"Echappée de couture autre que glaçage : "
+2079;54;"Inversion Bonnets (devant/dos)  "
+2150;44;Couture déformée, retournée
+2072;46;Craquage de couture 
+2077;45;Fourniture ou article coupé ou troué 
+2335;70;"Plis sur couture "
+2164;72;"Décalage de couture côté >1mm  "
+5050;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2140;46;Craquage de couture 
+2346;44;Couture déformée, retournée
+5020;21;"Echappée de couture glaçage "
+2452;05;Point sauté ( 1 seul point et sauf recouvrement)
+2375;72;"Décalage de couture côté >1mm  "
+2504;70;"Plis sur couture "
+2324;45;Fourniture ou article coupé ou troué 
+2397;45;Fourniture ou article coupé ou troué 
+2531;44;Couture déformée, retournée
+2170;63;"Point d’arrêt début ou fin de couture non fait "
+2252;05;Point sauté ( 1 seul point et sauf recouvrement)
+2127;47;"Echappée de couture autre que glaçage : "
+2316;54;"Inversion Bonnets (devant/dos)  "
+2049;74;Manque Accessoire
+2029;45;Fourniture ou article coupé ou troué 
+2016;21;"Echappée de couture glaçage "
+5072;54;"Inversion Bonnets (devant/dos)  "
+2032;45;Fourniture ou article coupé ou troué 
+5020;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+1122;47;"Echappée de couture autre que glaçage : "
+5050;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5040;70;"Plis sur couture "
+2138;70;"Plis sur couture "
+5037;61;"Bretelle ou barrette vissée  "
+2579;44;Couture déformée, retournée
+5020;59;"Jeu d’armature > 1.5cm ou 0cm "
+2007;04;Défaut dentelle, broderie, fourniture
+2319;64;"Point mal réglé (qui glisse) "
+2397;63;"Point d’arrêt début ou fin de couture non fait "
+2318;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+5035;05;Point sauté ( 1 seul point et sauf recouvrement)
+2209;06;Point mal réglé (aspect)
+1565;72;"Décalage de couture côté >1mm  "
+2419;47;"Echappée de couture autre que glaçage : "
+2363;47;"Echappée de couture autre que glaçage : "
+2170;45;Fourniture ou article coupé ou troué 
+2005;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2097;44;Couture déformée, retournée
+2316;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2381;54;"Inversion Bonnets (devant/dos)  "
+2221;47;"Echappée de couture autre que glaçage : "
+2314;45;Fourniture ou article coupé ou troué 
+2094;06;Point mal réglé (aspect)
+2070;72;"Décalage de couture côté >1mm  "
+2079;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2189;64;"Point mal réglé (qui glisse) "
+2250;72;"Décalage de couture côté >1mm  "
+5050;71;"Non respect de cran ou de la ligne des creux   "
+2419;75;Séparateur incliné
+1108;64;"Point mal réglé (qui glisse) "
+2101;47;"Echappée de couture autre que glaçage : "
+2365;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2218;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2312;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2388;72;"Décalage de couture côté >1mm  "
+2191;72;"Décalage de couture côté >1mm  "
+2345;70;"Plis sur couture "
+2218;05;Point sauté ( 1 seul point et sauf recouvrement)
+2190;46;Craquage de couture 
+2383;01;Mesures
+1111;46;Craquage de couture 
+2049;44;Couture déformée, retournée
+2338;44;Couture déformée, retournée
+2418;47;"Echappée de couture autre que glaçage : "
+2001;65;"Point d’arrêt défectueux (non piqué) "
+2385;64;"Point mal réglé (qui glisse) "
+5046;65;"Point d’arrêt défectueux (non piqué) "
+2381;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2104;66;Symétrie des mesures non respectés >2mm (décoché)
+2340;65;"Point d’arrêt défectueux (non piqué) "
+2040;44;Couture déformée, retournée
+2210;20;"Grignage couture, Embu "
+2215;74;Manque Accessoire
+2370;08;Qualité des surpiqûres
+2133;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2207;47;"Echappée de couture autre que glaçage : "
+2073;44;Couture déformée, retournée
+2105;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2331;47;"Echappée de couture autre que glaçage : "
+2221;63;"Point d’arrêt début ou fin de couture non fait "
+2083;54;"Inversion Bonnets (devant/dos)  "
+5030;06;Point mal réglé (aspect)
+2007;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+1096;70;"Plis sur couture "
+2071;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2493;06;Point mal réglé (aspect)
+2244;45;Fourniture ou article coupé ou troué 
+2398;61;"Bretelle ou barrette vissée  "
+2110;05;Point sauté ( 1 seul point et sauf recouvrement)
+2826;47;"Echappée de couture autre que glaçage : "
+2095;20;"Grignage couture, Embu "
+2419;45;Fourniture ou article coupé ou troué 
+5020;64;"Point mal réglé (qui glisse) "
+2140;04;Défaut dentelle, broderie, fourniture
+2380;03;Tâche, nuance coloris
+2218;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2318;06;Point mal réglé (aspect)
+2215;44;Couture déformée, retournée
+2014;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5054;72;"Décalage de couture côté >1mm  "
+2493;64;"Point mal réglé (qui glisse) "
+TROU;03;Tâche, nuance coloris
+2201;47;"Echappée de couture autre que glaçage : "
+2319;06;Point mal réglé (aspect)
+2004;54;"Inversion Bonnets (devant/dos)  "
+2185;71;"Non respect de cran ou de la ligne des creux   "
+2183;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5030;64;"Point mal réglé (qui glisse) "
+5060;61;"Bretelle ou barrette vissée  "
+2210;21;"Echappée de couture glaçage "
+2218;49;"Point sauté >1 point sur la recouvrement "
+2594;47;"Echappée de couture autre que glaçage : "
+2254;03;Tâche, nuance coloris
+2474;06;Point mal réglé (aspect)
+2140;20;"Grignage couture, Embu "
+2300;72;"Décalage de couture côté >1mm  "
+2473;70;"Plis sur couture "
+5072;25;"Fil  > 1cm pour les postes sur machine coupe fil "
+2127;45;Fourniture ou article coupé ou troué 
+2420;47;"Echappée de couture autre que glaçage : "
+2381;73;"Vignette non conforme "
+1600;70;"Plis sur couture "
+2318;64;"Point mal réglé (qui glisse) "
+2544;46;Craquage de couture 
+2325;49;"Point sauté >1 point sur la recouvrement "
+1510;04;Défaut dentelle, broderie, fourniture
+2543;64;"Point mal réglé (qui glisse) "
+5025;10;"L’armature non poussée "
+2185;70;"Plis sur couture "
+2472;03;Tâche, nuance coloris
+2189;06;Point mal réglé (aspect)
+2140;21;"Echappée de couture glaçage "
+2315;03;Tâche, nuance coloris
+2381;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5040;71;"Non respect de cran ou de la ligne des creux   "
+2240;72;"Décalage de couture côté >1mm  "
+2050;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2170;75;Séparateur incliné
+5037;47;"Echappée de couture autre que glaçage : "
+2335;71;"Non respect de cran ou de la ligne des creux   "
+2020;05;Point sauté ( 1 seul point et sauf recouvrement)
+2210;04;Défaut dentelle, broderie, fourniture
+2833;63;"Point d’arrêt début ou fin de couture non fait "
+2005;54;"Inversion Bonnets (devant/dos)  "
+2052;45;Fourniture ou article coupé ou troué 
+2077;47;"Echappée de couture autre que glaçage : "
+2183;70;"Plis sur couture "
+5037;63;"Point d’arrêt début ou fin de couture non fait "
+2141;72;"Décalage de couture côté >1mm  "
+2005;08;Qualité des surpiqûres
+2474;04;Défaut dentelle, broderie, fourniture
+2118;46;Craquage de couture 
+2338;72;"Décalage de couture côté >1mm  "
+5050;08;Qualité des surpiqûres
+2581;05;Point sauté ( 1 seul point et sauf recouvrement)
+2425;54;"Inversion Bonnets (devant/dos)  "
+2040;72;"Décalage de couture côté >1mm  "
+2200;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2110;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2590;72;"Décalage de couture côté >1mm  "
+2247;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2031;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2271;66;Symétrie des mesures non respectés >2mm (décoché)
+2381;70;"Plis sur couture "
+2324;47;"Echappée de couture autre que glaçage : "
+2029;47;"Echappée de couture autre que glaçage : "
+2072;44;Couture déformée, retournée
+TACHE;65;"Point d’arrêt défectueux (non piqué) "
+2210;02;Mauvais épluchage (poste de dégarnissage)
+2117;06;Point mal réglé (aspect)
+2134;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2124;47;"Echappée de couture autre que glaçage : "
+1096;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2209;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2115;70;"Plis sur couture "
+2183;71;"Non respect de cran ou de la ligne des creux   "
+2229;06;Point mal réglé (aspect)
+2262;72;"Décalage de couture côté >1mm  "
+2314;47;"Echappée de couture autre que glaçage : "
+2544;44;Couture déformée, retournée
+5004;74;Manque Accessoire
+2201;63;"Point d’arrêt début ou fin de couture non fait "
+2190;44;Couture déformée, retournée
+2011;45;Fourniture ou article coupé ou troué 
+2246;70;"Plis sur couture "
+1111;44;Couture déformée, retournée
+2247;06;Point mal réglé (aspect)
+5005;44;Couture déformée, retournée
+2385;46;Craquage de couture 
+5072;70;"Plis sur couture "
+2007;64;"Point mal réglé (qui glisse) "
+2052;75;Séparateur incliné
+2083;60;"Bretelle mal positionnée sur balconnet "
+2280;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2280;45;Fourniture ou article coupé ou troué 
+2185;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2497;72;"Décalage de couture côté >1mm  "
+2170;03;Tâche, nuance coloris
+2320;20;"Grignage couture, Embu "
+2032;47;"Echappée de couture autre que glaçage : "
+2399;70;"Plis sur couture "
+2211;72;"Décalage de couture côté >1mm  "
+2589;45;Fourniture ou article coupé ou troué 
+2330;47;"Echappée de couture autre que glaçage : "
+2104;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2355;47;"Echappée de couture autre que glaçage : "
+2040;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2408;49;"Point sauté >1 point sur la recouvrement "
+2352;72;"Décalage de couture côté >1mm  "
+1111;74;Manque Accessoire
+2320;21;"Echappée de couture glaçage "
+5020;23;"Décalage agrafage "
+2355;75;Séparateur incliné
+5035;65;"Point d’arrêt défectueux (non piqué) "
+1557;04;Défaut dentelle, broderie, fourniture
+2336;04;Défaut dentelle, broderie, fourniture
+2220;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2172;70;"Plis sur couture "
+2320;44;Couture déformée, retournée
+2150;72;"Décalage de couture côté >1mm  "
+5020;46;Craquage de couture 
+2050;69;"Coque cassée "
+2190;74;Manque Accessoire
+2011;75;Séparateur incliné
+2544;20;"Grignage couture, Embu "
+2080;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2007;02;Mauvais épluchage (poste de dégarnissage)
+2325;65;"Point d’arrêt défectueux (non piqué) "
+2436;05;Point sauté ( 1 seul point et sauf recouvrement)
+2024;06;Point mal réglé (aspect)
+2316;70;"Plis sur couture "
+2194;47;"Echappée de couture autre que glaçage : "
+2220;45;Fourniture ou article coupé ou troué 
+2080;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5004;44;Couture déformée, retournée
+2359;70;"Plis sur couture "
+2340;05;Point sauté ( 1 seul point et sauf recouvrement)
+2104;06;Point mal réglé (aspect)
+5027;56;"Erreur référence armature  "
+2248;04;Défaut dentelle, broderie, fourniture
+5040;08;Qualité des surpiqûres
+2200;45;Fourniture ou article coupé ou troué 
+2007;46;Craquage de couture 
+5050;70;"Plis sur couture "
+2269;54;"Inversion Bonnets (devant/dos)  "
+2083;61;"Bretelle ou barrette vissée  "
+2210;46;Craquage de couture 
+5020;04;Défaut dentelle, broderie, fourniture
+2185;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5999;61;"Bretelle ou barrette vissée  "
+2215;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2144;45;Fourniture ou article coupé ou troué 
+2578;70;"Plis sur couture "
+2370;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2005;70;"Plis sur couture "
+2335;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5025;65;"Point d’arrêt défectueux (non piqué) "
+2189;66;Symétrie des mesures non respectés >2mm (décoché)
+2269;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2483;72;"Décalage de couture côté >1mm  "
+2095;46;Craquage de couture 
+2330;45;Fourniture ou article coupé ou troué 
+2404;60;"Bretelle mal positionnée sur balconnet "
+5019;65;"Point d’arrêt défectueux (non piqué) "
+5053;62;"Pose agrafage sans point d’arrêt "
+2087;72;"Décalage de couture côté >1mm  "
+2370;06;Point mal réglé (aspect)
+2215;72;"Décalage de couture côté >1mm  "
+2365;70;"Plis sur couture "
+2397;47;"Echappée de couture autre que glaçage : "
+5040;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2170;47;"Echappée de couture autre que glaçage : "
+2543;04;Défaut dentelle, broderie, fourniture
+2454;49;"Point sauté >1 point sur la recouvrement "
+2073;72;"Décalage de couture côté >1mm  "
+2108;49;"Point sauté >1 point sur la recouvrement "
+2593;45;Fourniture ou article coupé ou troué 
+2380;01;Mesures
+5021;47;"Echappée de couture autre que glaçage : "
+2210;64;"Point mal réglé (qui glisse) "
+2276;45;Fourniture ou article coupé ou troué 
+2313;65;"Point d’arrêt défectueux (non piqué) "
+2285;73;"Vignette non conforme "
+2244;47;"Echappée de couture autre que glaçage : "
+2581;49;"Point sauté >1 point sur la recouvrement "
+5005;74;Manque Accessoire
+2318;04;Défaut dentelle, broderie, fourniture
+2090;45;Fourniture ou article coupé ou troué 
+2310;44;Couture déformée, retournée
+TACHE;24;"Fil  > 3mm pour les postes à couper à ras "
+2362;47;"Echappée de couture autre que glaçage : "
+2244;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2220;65;"Point d’arrêt défectueux (non piqué) "
+2016;66;Symétrie des mesures non respectés >2mm (décoché)
+2325;45;Fourniture ou article coupé ou troué 
+5025;75;Séparateur incliné
+2079;03;Tâche, nuance coloris
+2083;70;"Plis sur couture "
+2269;58;"Armature inversée  "
+2247;20;"Grignage couture, Embu "
+2052;47;"Echappée de couture autre que glaçage : "
+2352;04;Défaut dentelle, broderie, fourniture
+1111;06;Point mal réglé (aspect)
+2134;45;Fourniture ou article coupé ou troué 
+2372;44;Couture déformée, retournée
+5028;61;"Bretelle ou barrette vissée  "
+2049;04;Défaut dentelle, broderie, fourniture
+1565;02;Mauvais épluchage (poste de dégarnissage)
+2241;45;Fourniture ou article coupé ou troué 
+2016;44;Couture déformée, retournée
+2105;74;Manque Accessoire
+1123;70;"Plis sur couture "
+1111;64;"Point mal réglé (qui glisse) "
+2323;73;"Vignette non conforme "
+2280;65;"Point d’arrêt défectueux (non piqué) "
+2220;47;"Echappée de couture autre que glaçage : "
+2361;49;"Point sauté >1 point sur la recouvrement "
+2316;03;Tâche, nuance coloris
+2544;64;"Point mal réglé (qui glisse) "
+5019;47;"Echappée de couture autre que glaçage : "
+2170;05;Point sauté ( 1 seul point et sauf recouvrement)
+TACHE;45;Fourniture ou article coupé ou troué 
+2211;04;Défaut dentelle, broderie, fourniture
+2094;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2263;49;"Point sauté >1 point sur la recouvrement "
+5005;72;"Décalage de couture côté >1mm  "
+2474;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2086;06;Point mal réglé (aspect)
+2452;45;Fourniture ou article coupé ou troué 
+1557;46;Craquage de couture 
+2185;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2314;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2096;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2117;21;"Echappée de couture glaçage "
+2104;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2252;45;Fourniture ou article coupé ou troué 
+2373;47;"Echappée de couture autre que glaçage : "
+2011;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2397;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2177;72;"Décalage de couture côté >1mm  "
+2473;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2164;02;Mauvais épluchage (poste de dégarnissage)
+2190;64;"Point mal réglé (qui glisse) "
+2011;65;"Point d’arrêt défectueux (non piqué) "
+2285;70;"Plis sur couture "
+9100;46;Craquage de couture 
+2324;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2047;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2110;47;"Echappée de couture autre que glaçage : "
+2218;45;Fourniture ou article coupé ou troué 
+2445;02;Mauvais épluchage (poste de dégarnissage)
+2320;72;"Décalage de couture côté >1mm  "
+5049;70;"Plis sur couture "
+5050;01;Mesures
+2007;44;Couture déformée, retournée
+2193;45;Fourniture ou article coupé ou troué 
+2170;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5053;04;Défaut dentelle, broderie, fourniture
+2209;46;Craquage de couture 
+2011;47;"Echappée de couture autre que glaçage : "
+5035;45;Fourniture ou article coupé ou troué 
+2105;44;Couture déformée, retournée
+2004;70;"Plis sur couture "
+2370;20;"Grignage couture, Embu "
+2150;04;Défaut dentelle, broderie, fourniture
+2123;47;"Echappée de couture autre que glaçage : "
+5050;23;"Décalage agrafage "
+2370;54;"Inversion Bonnets (devant/dos)  "
+2031;45;Fourniture ou article coupé ou troué 
+5060;63;"Point d’arrêt début ou fin de couture non fait "
+5020;66;Symétrie des mesures non respectés >2mm (décoché)
+2589;47;"Echappée de couture autre que glaçage : "
+2287;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2110;75;Séparateur incliné
+2201;73;"Vignette non conforme "
+2140;06;Point mal réglé (aspect)
+2310;64;"Point mal réglé (qui glisse) "
+5999;63;"Point d’arrêt début ou fin de couture non fait "
+2200;47;"Echappée de couture autre que glaçage : "
+5030;46;Craquage de couture 
+2287;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2493;46;Craquage de couture 
+5053;72;"Décalage de couture côté >1mm  "
+2543;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2030;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2493;08;Qualité des surpiqûres
+2095;44;Couture déformée, retournée
+2050;02;Mauvais épluchage (poste de dégarnissage)
+2104;20;"Grignage couture, Embu "
+2083;63;"Point d’arrêt début ou fin de couture non fait "
+2032;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5040;23;"Décalage agrafage "
+2210;44;Couture déformée, retournée
+2020;45;Fourniture ou article coupé ou troué 
+2380;73;"Vignette non conforme "
+2140;74;Manque Accessoire
+2346;72;"Décalage de couture côté >1mm  "
+2370;21;"Echappée de couture glaçage "
+2318;46;Craquage de couture 
+2090;47;"Echappée de couture autre que glaçage : "
+2215;04;Défaut dentelle, broderie, fourniture
+1108;46;Craquage de couture 
+2355;65;"Point d’arrêt défectueux (non piqué) "
+2134;75;Séparateur incliné
+2543;46;Craquage de couture 
+1058;47;"Echappée de couture autre que glaçage : "
+2310;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2189;46;Craquage de couture 
+5025;45;Fourniture ou article coupé ou troué 
+2030;49;"Point sauté >1 point sur la recouvrement "
+2330;65;"Point d’arrêt défectueux (non piqué) "
+2423;70;"Plis sur couture "
+2106;72;"Décalage de couture côté >1mm  "
+2285;63;"Point d’arrêt début ou fin de couture non fait "
+2020;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2544;72;"Décalage de couture côté >1mm  "
+2160;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2370;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2133;49;"Point sauté >1 point sur la recouvrement "
+2079;70;"Plis sur couture "
+2238;49;"Point sauté >1 point sur la recouvrement "
+2280;47;"Echappée de couture autre que glaçage : "
+2370;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2110;45;Fourniture ou article coupé ou troué 
+2047;20;"Grignage couture, Embu "
+5050;60;"Bretelle mal positionnée sur balconnet "
+5037;07;Bretelle mal positionnée sur SG autre que balconnet
+5005;06;Point mal réglé (aspect)
+2269;63;"Point d’arrêt début ou fin de couture non fait "
+2140;44;Couture déformée, retournée
+2380;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2210;74;Manque Accessoire
+2208;70;"Plis sur couture "
+5072;03;Tâche, nuance coloris
+5049;63;"Point d’arrêt début ou fin de couture non fait "
+2332;70;"Plis sur couture "
+2276;47;"Echappée de couture autre que glaçage : "
+2074;49;"Point sauté >1 point sur la recouvrement "
+2105;66;Symétrie des mesures non respectés >2mm (décoché)
+2300;02;Mauvais épluchage (poste de dégarnissage)
+2117;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2396;45;Fourniture ou article coupé ou troué 
+2319;46;Craquage de couture 
+2061;45;Fourniture ou article coupé ou troué 
+2200;65;"Point d’arrêt défectueux (non piqué) "
+2185;01;Mesures
+2269;70;"Plis sur couture "
+2310;72;"Décalage de couture côté >1mm  "
+1111;20;"Grignage couture, Embu "
+5004;64;"Point mal réglé (qui glisse) "
+2274;21;"Echappée de couture glaçage "
+2040;04;Défaut dentelle, broderie, fourniture
+2324;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2474;46;Craquage de couture 
+2073;04;Défaut dentelle, broderie, fourniture
+2193;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2047;21;"Echappée de couture glaçage "
+2433;71;"Non respect de cran ou de la ligne des creux   "
+5004;72;"Décalage de couture côté >1mm  "
+2315;70;"Plis sur couture "
+2109;72;"Décalage de couture côté >1mm  "
+2493;74;Manque Accessoire
+2372;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+1565;62;"Pose agrafage sans point d’arrêt "
+2108;45;Fourniture ou article coupé ou troué 
+2336;44;Couture déformée, retournée
+2124;65;"Point d’arrêt défectueux (non piqué) "
+2352;64;"Point mal réglé (qui glisse) "
+2320;04;Défaut dentelle, broderie, fourniture
+5050;54;"Inversion Bonnets (devant/dos)  "
+2134;47;"Echappée de couture autre que glaçage : "
+1547;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2209;08;Qualité des surpiqûres
+5035;47;"Echappée de couture autre que glaçage : "
+2454;45;Fourniture ou article coupé ou troué 
+2125;70;"Plis sur couture "
+2325;47;"Echappée de couture autre que glaçage : "
+"2184 ";63;"Point d’arrêt début ou fin de couture non fait "
+5072;01;Mesures
+2331;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2024;46;Craquage de couture 
+2241;47;"Echappée de couture autre que glaçage : "
+2016;06;Point mal réglé (aspect)
+2210;72;"Décalage de couture côté >1mm  "
+2398;70;"Plis sur couture "
+2031;47;"Echappée de couture autre que glaçage : "
+2828;21;"Echappée de couture glaçage "
+2047;54;"Inversion Bonnets (devant/dos)  "
+2211;64;"Point mal réglé (qui glisse) "
+5050;61;"Bretelle ou barrette vissée  "
+2579;64;"Point mal réglé (qui glisse) "
+2359;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2005;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2474;44;Couture déformée, retournée
+2314;65;"Point d’arrêt défectueux (non piqué) "
+2094;44;Couture déformée, retournée
+2381;01;Mesures
+5050;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2250;49;"Point sauté >1 point sur la recouvrement "
+2170;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+1557;20;"Grignage couture, Embu "
+2388;49;"Point sauté >1 point sur la recouvrement "
+2201;51;"Solidité des nœuds "
+2016;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2040;02;Mauvais épluchage (poste de dégarnissage)
+2032;65;"Point d’arrêt défectueux (non piqué) "
+2472;70;"Plis sur couture "
+2336;21;"Echappée de couture glaçage "
+2085;44;Couture déformée, retournée
+2316;63;"Point d’arrêt début ou fin de couture non fait "
+2117;46;Craquage de couture 
+2215;49;"Point sauté >1 point sur la recouvrement "
+2199;47;"Echappée de couture autre que glaçage : "
+5020;06;Point mal réglé (aspect)
+5020;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2051;45;Fourniture ou article coupé ou troué 
+2189;20;"Grignage couture, Embu "
+2436;45;Fourniture ou article coupé ou troué 
+2349;46;Craquage de couture 
+2032;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2248;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2254;70;"Plis sur couture "
+2152;45;Fourniture ou article coupé ou troué 
+2007;72;"Décalage de couture côté >1mm  "
+1111;04;Défaut dentelle, broderie, fourniture
+2352;02;Mauvais épluchage (poste de dégarnissage)
+2189;44;Couture déformée, retournée
+2104;54;"Inversion Bonnets (devant/dos)  "
+1122;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5040;54;"Inversion Bonnets (devant/dos)  "
+2101;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2385;06;Point mal réglé (aspect)
+2140;66;Symétrie des mesures non respectés >2mm (décoché)
+2581;45;Fourniture ou article coupé ou troué 
+2244;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2170;73;"Vignette non conforme "
+2105;72;"Décalage de couture côté >1mm  "
+1520;54;"Inversion Bonnets (devant/dos)  "
+2385;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5020;74;Manque Accessoire
+2079;63;"Point d’arrêt début ou fin de couture non fait "
+2301;45;Fourniture ou article coupé ou troué 
+2477;47;"Echappée de couture autre que glaçage : "
+2218;47;"Echappée de couture autre que glaçage : "
+2104;08;Qualité des surpiqûres
+2314;73;"Vignette non conforme "
+2474;20;"Grignage couture, Embu "
+2183;63;"Point d’arrêt début ou fin de couture non fait "
+2020;47;"Echappée de couture autre que glaçage : "
+2210;06;Point mal réglé (aspect)
+2276;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2001;45;Fourniture ou article coupé ou troué 
+2291;70;"Plis sur couture "
+2425;70;"Plis sur couture "
+2365;01;Mesures
+2109;06;Point mal réglé (aspect)
+2276;05;Point sauté ( 1 seul point et sauf recouvrement)
+2371;45;Fourniture ou article coupé ou troué 
+2073;64;"Point mal réglé (qui glisse) "
+5030;20;"Grignage couture, Embu "
+2215;02;Mauvais épluchage (poste de dégarnissage)
+2164;49;"Point sauté >1 point sur la recouvrement "
+2310;04;Défaut dentelle, broderie, fourniture
+2493;20;"Grignage couture, Embu "
+2185;54;"Inversion Bonnets (devant/dos)  "
+2274;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2318;44;Couture déformée, retournée
+2381;63;"Point d’arrêt début ou fin de couture non fait "
+2375;49;"Point sauté >1 point sur la recouvrement "
+1539;06;Point mal réglé (aspect)
+2133;57;"Erreur taille armature  "
+2269;03;Tâche, nuance coloris
+2474;21;"Echappée de couture glaçage "
+2190;72;"Décalage de couture côté >1mm  "
+"2028 ";02;Mauvais épluchage (poste de dégarnissage)
+2189;08;Qualité des surpiqûres
+2330;05;Point sauté ( 1 seul point et sauf recouvrement)
+2095;06;Point mal réglé (aspect)
+2287;46;Craquage de couture 
+2061;47;"Echappée de couture autre que glaçage : "
+2377;73;"Vignette non conforme "
+1999;64;"Point mal réglé (qui glisse) "
+2221;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2378;47;"Echappée de couture autre que glaçage : "
+5060;70;"Plis sur couture "
+1111;72;"Décalage de couture côté >1mm  "
+5040;61;"Bretelle ou barrette vissée  "
+2193;47;"Echappée de couture autre que glaçage : "
+2240;49;"Point sauté >1 point sur la recouvrement "
+5040;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2108;75;Séparateur incliné
+2377;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+TACHE;47;"Echappée de couture autre que glaçage : "
+2245;70;"Plis sur couture "
+2140;72;"Décalage de couture côté >1mm  "
+1570;74;Manque Accessoire
+2076;47;"Echappée de couture autre que glaçage : "
+2105;06;Point mal réglé (aspect)
+5020;44;Couture déformée, retournée
+5031;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+5072;63;"Point d’arrêt début ou fin de couture non fait "
+2252;47;"Echappée de couture autre que glaçage : "
+2493;44;Couture déformée, retournée
+2201;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2452;47;"Echappée de couture autre que glaçage : "
+2215;64;"Point mal réglé (qui glisse) "
+2244;65;"Point d’arrêt défectueux (non piqué) "
+2025;74;Manque Accessoire
+5015;65;"Point d’arrêt défectueux (non piqué) "
+2186;54;"Inversion Bonnets (devant/dos)  "
+2340;45;Fourniture ou article coupé ou troué 
+2104;46;Craquage de couture 
+5031;70;"Plis sur couture "
+2095;72;"Décalage de couture côté >1mm  "
+2370;46;Craquage de couture 
+5025;47;"Echappée de couture autre que glaçage : "
+5020;20;"Grignage couture, Embu "
+2380;70;"Plis sur couture "
+2200;05;Point sauté ( 1 seul point et sauf recouvrement)
+2007;06;Point mal réglé (aspect)
+2543;44;Couture déformée, retournée
+2313;47;"Echappée de couture autre que glaçage : "
+1096;54;"Inversion Bonnets (devant/dos)  "
+2319;74;Manque Accessoire
+2385;44;Couture déformée, retournée
+2073;23;"Décalage agrafage "
+2144;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2074;45;Fourniture ou article coupé ou troué 
+2543;72;"Décalage de couture côté >1mm  "
+2004;64;"Point mal réglé (qui glisse) "
+2454;47;"Echappée de couture autre que glaçage : "
+2050;20;"Grignage couture, Embu "
+2183;62;"Pose agrafage sans point d’arrêt "
+2001;61;"Bretelle ou barrette vissée  "
+5050;46;Craquage de couture 
+2579;49;"Point sauté >1 point sur la recouvrement "
+2117;44;Couture déformée, retournée
+2474;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2005;46;Craquage de couture 
+5060;51;"Solidité des nœuds "
+5049;64;"Point mal réglé (qui glisse) "
+2285;06;Point mal réglé (aspect)
+2318;72;"Décalage de couture côté >1mm  "
+2281;70;"Plis sur couture "
+2108;47;"Echappée de couture autre que glaçage : "
+2247;44;Couture déformée, retournée
+2030;63;"Point d’arrêt début ou fin de couture non fait "
+2383;64;"Point mal réglé (qui glisse) "
+2420;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2185;02;Mauvais épluchage (poste de dégarnissage)
+2004;06;Point mal réglé (aspect)
+2133;63;"Point d’arrêt début ou fin de couture non fait "
+2339;45;Fourniture ou article coupé ou troué 
+2352;49;"Point sauté >1 point sur la recouvrement "
+2190;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2073;05;Point sauté ( 1 seul point et sauf recouvrement)
+2200;73;"Vignette non conforme "
+5030;72;"Décalage de couture côté >1mm  "
+2221;70;"Plis sur couture "
+2050;21;"Echappée de couture glaçage "
+2010;47;"Echappée de couture autre que glaçage : "
+2340;03;Tâche, nuance coloris
+2079;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2301;47;"Echappée de couture autre que glaçage : "
+2238;45;Fourniture ou article coupé ou troué 
+2071;75;Séparateur incliné
+2377;70;"Plis sur couture "
+2040;05;Point sauté ( 1 seul point et sauf recouvrement)
+2246;04;Défaut dentelle, broderie, fourniture
+2425;06;Point mal réglé (aspect)
+2150;49;"Point sauté >1 point sur la recouvrement "
+2393;49;"Point sauté >1 point sur la recouvrement "
+2444;75;Séparateur incliné
+2152;47;"Echappée de couture autre que glaçage : "
+5004;65;"Point d’arrêt défectueux (non piqué) "
+1547;47;"Echappée de couture autre que glaçage : "
+2101;70;"Plis sur couture "
+2244;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2521;47;"Echappée de couture autre que glaçage : "
+2238;63;"Point d’arrêt début ou fin de couture non fait "
+2370;44;Couture déformée, retournée
+2133;45;Fourniture ou article coupé ou troué 
+2324;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2191;07;Bretelle mal positionnée sur SG autre que balconnet
+2276;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+6030;46;Craquage de couture 
+2312;47;"Echappée de couture autre que glaçage : "
+2152;03;Tâche, nuance coloris
+5034;63;"Point d’arrêt début ou fin de couture non fait "
+5031;06;Point mal réglé (aspect)
+2083;64;"Point mal réglé (qui glisse) "
+2416;47;"Echappée de couture autre que glaçage : "
+2247;74;Manque Accessoire
+2578;46;Craquage de couture 
+2291;06;Point mal réglé (aspect)
+2201;08;Qualité des surpiqûres
+2269;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+5068;47;"Echappée de couture autre que glaçage : "
+2164;20;"Grignage couture, Embu "
+2140;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2493;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2581;47;"Echappée de couture autre que glaçage : "
+5072;04;Défaut dentelle, broderie, fourniture
+2054;06;Point mal réglé (aspect)
+5040;02;Mauvais épluchage (poste de dégarnissage)
+2380;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+TACHE;55;"Erreur de taille de bonnet  "
+2071;63;"Point d’arrêt début ou fin de couture non fait "
+2189;72;"Décalage de couture côté >1mm  "
+2170;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2000;21;"Echappée de couture glaçage "
+2436;47;"Echappée de couture autre que glaçage : "
+2314;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2315;51;"Solidité des nœuds "
+2336;72;"Décalage de couture côté >1mm  "
+2264;47;"Echappée de couture autre que glaçage : "
+2408;63;"Point d’arrêt début ou fin de couture non fait "
+2584;64;"Point mal réglé (qui glisse) "
+2316;04;Défaut dentelle, broderie, fourniture
+5025;55;"Erreur de taille de bonnet  "
+2578;04;Défaut dentelle, broderie, fourniture
+2372;72;"Décalage de couture côté >1mm  "
+2332;64;"Point mal réglé (qui glisse) "
+5046;47;"Echappée de couture autre que glaçage : "
+2040;49;"Point sauté >1 point sur la recouvrement "
+2339;21;"Echappée de couture glaçage "
+2209;74;Manque Accessoire
+2389;45;Fourniture ou article coupé ou troué 
+2088;20;"Grignage couture, Embu "
+2381;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2085;54;"Inversion Bonnets (devant/dos)  "
+2134;03;Tâche, nuance coloris
+5020;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2287;44;Couture déformée, retournée
+2071;45;Fourniture ou article coupé ou troué 
+2210;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2332;06;Point mal réglé (aspect)
+2101;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2420;70;"Plis sur couture "
+5053;65;"Point d’arrêt défectueux (non piqué) "
+2377;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2210;54;"Inversion Bonnets (devant/dos)  "
+2104;44;Couture déformée, retournée
+2388;05;Point sauté ( 1 seul point et sauf recouvrement)
+2125;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2005;04;Défaut dentelle, broderie, fourniture
+5068;45;Fourniture ou article coupé ou troué 
+2308;72;"Décalage de couture côté >1mm  "
+2340;47;"Echappée de couture autre que glaçage : "
+2125;08;Qualité des surpiqûres
+2016;72;"Décalage de couture côté >1mm  "
+2269;06;Point mal réglé (aspect)
+2191;20;"Grignage couture, Embu "
+2030;45;Fourniture ou article coupé ou troué 
+2473;46;Craquage de couture 
+2315;11;"Solidité de la pose étiquette "
+2428;47;"Echappée de couture autre que glaçage : "
+5020;72;"Décalage de couture côté >1mm  "
+1122;71;"Non respect de cran ou de la ligne des creux   "
+2073;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2408;45;Fourniture ou article coupé ou troué 
+5025;61;"Bretelle ou barrette vissée  "
+2230;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2079;64;"Point mal réglé (qui glisse) "
+2201;70;"Plis sur couture "
+2316;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2097;49;"Point sauté >1 point sur la recouvrement "
+5054;07;Bretelle mal positionnée sur SG autre que balconnet
+5050;76;"Erreur de carte "
+2051;47;"Echappée de couture autre que glaçage : "
+2248;72;"Décalage de couture côté >1mm  "
+TACHE;61;"Bretelle ou barrette vissée  "
+2007;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2215;05;Point sauté ( 1 seul point et sauf recouvrement)
+2269;64;"Point mal réglé (qui glisse) "
+5068;63;"Point d’arrêt début ou fin de couture non fait "
+2493;72;"Décalage de couture côté >1mm  "
+2209;44;Couture déformée, retournée
+2202;46;Craquage de couture 
+2170;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+5040;46;Craquage de couture 
+2444;45;Fourniture ou article coupé ou troué 
+5049;06;Point mal réglé (aspect)
+"2184 ";64;"Point mal réglé (qui glisse) "
+2104;74;Manque Accessoire
+2140;54;"Inversion Bonnets (devant/dos)  "
+2215;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2105;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2183;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2185;46;Craquage de couture 
+2001;47;"Echappée de couture autre que glaçage : "
+5050;62;"Pose agrafage sans point d’arrêt "
+2436;63;"Point d’arrêt début ou fin de couture non fait "
+2238;75;Séparateur incliné
+2418;08;Qualité des surpiqûres
+2399;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2262;49;"Point sauté >1 point sur la recouvrement "
+2083;06;Point mal réglé (aspect)
+2385;72;"Décalage de couture côté >1mm  "
+2007;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2087;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2371;47;"Echappée de couture autre que glaçage : "
+2500;47;"Echappée de couture autre que glaçage : "
+2314;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2343;70;"Plis sur couture "
+2393;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+1122;70;"Plis sur couture "
+2335;74;Manque Accessoire
+2287;72;"Décalage de couture côté >1mm  "
+2579;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2404;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2330;71;"Non respect de cran ou de la ligne des creux   "
+2104;72;"Décalage de couture côté >1mm  "
+2433;04;Défaut dentelle, broderie, fourniture
+2079;46;Craquage de couture 
+5040;62;"Pose agrafage sans point d’arrêt "
+2381;64;"Point mal réglé (qui glisse) "
+2389;03;Tâche, nuance coloris
+2032;70;"Plis sur couture "
+2331;06;Point mal réglé (aspect)
+2215;20;"Grignage couture, Embu "
+2399;46;Craquage de couture 
+2330;70;"Plis sur couture "
+2276;41;Mesures : Longueur goutte, longueur fente, largeur fond : > ou < 2mm hors tolérance 
+2416;20;"Grignage couture, Embu "
+2083;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+5046;63;"Point d’arrêt début ou fin de couture non fait "
+2246;64;"Point mal réglé (qui glisse) "
+2088;47;"Echappée de couture autre que glaçage : "
+2316;46;Craquage de couture 
+2164;75;Séparateur incliné
+2000;47;"Echappée de couture autre que glaçage : "
+"2184 ";46;Craquage de couture 
+2106;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2338;65;"Point d’arrêt défectueux (non piqué) "
+2120;45;Fourniture ou article coupé ou troué 
+2083;04;Défaut dentelle, broderie, fourniture
+2218;01;Mesures
+1565;45;Fourniture ou article coupé ou troué 
+2371;01;Mesures
+2020;73;"Vignette non conforme "
+5072;46;Craquage de couture 
+2504;44;Couture déformée, retournée
+2418;06;Point mal réglé (aspect)
+2004;66;Symétrie des mesures non respectés >2mm (décoché)
+2250;45;Fourniture ou article coupé ou troué 
+5050;44;Couture déformée, retournée
+2361;47;"Echappée de couture autre que glaçage : "
+2095;54;"Inversion Bonnets (devant/dos)  "
+2315;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2370;72;"Décalage de couture côté >1mm  "
+2172;46;Craquage de couture 
+2073;20;"Grignage couture, Embu "
+5037;06;Point mal réglé (aspect)
+2576;47;"Echappée de couture autre que glaçage : "
+2481;72;"Décalage de couture côté >1mm  "
+5025;73;"Vignette non conforme "
+5040;44;Couture déformée, retournée
+2240;45;Fourniture ou article coupé ou troué 
+2355;70;"Plis sur couture "
+2090;70;"Plis sur couture "
+1510;54;"Inversion Bonnets (devant/dos)  "
+2320;05;Point sauté ( 1 seul point et sauf recouvrement)
+2238;03;Tâche, nuance coloris
+2380;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2140;49;"Point sauté >1 point sur la recouvrement "
+2263;47;"Echappée de couture autre que glaçage : "
+2276;70;"Plis sur couture "
+2138;44;Couture déformée, retournée
+2190;49;"Point sauté >1 point sur la recouvrement "
+2150;07;Bretelle mal positionnée sur SG autre que balconnet
+2425;04;Défaut dentelle, broderie, fourniture
+2821;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2399;64;"Point mal réglé (qui glisse) "
+2183;64;"Point mal réglé (qui glisse) "
+2001;63;"Point d’arrêt début ou fin de couture non fait "
+2201;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2291;66;Symétrie des mesures non respectés >2mm (décoché)
+2316;64;"Point mal réglé (qui glisse) "
+2246;02;Mauvais épluchage (poste de dégarnissage)
+2020;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5045;47;"Echappée de couture autre que glaçage : "
+2584;04;Défaut dentelle, broderie, fourniture
+2285;04;Défaut dentelle, broderie, fourniture
+2375;45;Fourniture ou article coupé ou troué 
+2004;04;Défaut dentelle, broderie, fourniture
+2339;47;"Echappée de couture autre que glaçage : "
+1111;49;"Point sauté >1 point sur la recouvrement "
+2164;45;Fourniture ou article coupé ou troué 
+5072;64;"Point mal réglé (qui glisse) "
+2269;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2436;20;"Grignage couture, Embu "
+2005;58;"Armature inversée  "
+2165;45;Fourniture ou article coupé ou troué 
+2074;47;"Echappée de couture autre que glaçage : "
+2049;07;Bretelle mal positionnée sur SG autre que balconnet
+2172;64;"Point mal réglé (qui glisse) "
+2493;54;"Inversion Bonnets (devant/dos)  "
+5050;74;Manque Accessoire
+2005;02;Mauvais épluchage (poste de dégarnissage)
+1557;72;"Décalage de couture côté >1mm  "
+2000;75;Séparateur incliné
+5030;54;"Inversion Bonnets (devant/dos)  "
+5050;02;Mauvais épluchage (poste de dégarnissage)
+9099;47;"Echappée de couture autre que glaçage : "
+2244;70;"Plis sur couture "
+2245;06;Point mal réglé (aspect)
+2176;06;Point mal réglé (aspect)
+2083;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+1123;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2007;54;"Inversion Bonnets (devant/dos)  "
+2050;45;Fourniture ou article coupé ou troué 
+2071;47;"Echappée de couture autre que glaçage : "
+2220;73;"Vignette non conforme "
+2011;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5049;51;"Solidité des nœuds "
+2120;75;Séparateur incliné
+2281;08;Qualité des surpiqûres
+2301;20;"Grignage couture, Embu "
+2352;05;Point sauté ( 1 seul point et sauf recouvrement)
+2079;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2185;44;Couture déformée, retournée
+2183;46;Craquage de couture 
+2318;54;"Inversion Bonnets (devant/dos)  "
+2094;72;"Décalage de couture côté >1mm  "
+2105;54;"Inversion Bonnets (devant/dos)  "
+2221;08;Qualité des surpiqûres
+2037;44;Couture déformée, retournée
+1547;03;Tâche, nuance coloris
+2108;03;Tâche, nuance coloris
+2300;45;Fourniture ou article coupé ou troué 
+2215;65;"Point d’arrêt défectueux (non piqué) "
+2152;20;"Grignage couture, Embu "
+9091;65;"Point d’arrêt défectueux (non piqué) "
+2150;05;Point sauté ( 1 seul point et sauf recouvrement)
+2263;45;Fourniture ou article coupé ou troué 
+2365;46;Craquage de couture 
+2170;71;"Non respect de cran ou de la ligne des creux   "
+2108;21;"Echappée de couture glaçage "
+2335;44;Couture déformée, retournée
+2432;74;Manque Accessoire
+5025;57;"Erreur taille armature  "
+2079;04;Défaut dentelle, broderie, fourniture
+2005;64;"Point mal réglé (qui glisse) "
+2191;65;"Point d’arrêt défectueux (non piqué) "
+2209;72;"Décalage de couture côté >1mm  "
+2397;70;"Plis sur couture "
+2314;70;"Plis sur couture "
+2398;06;Point mal réglé (aspect)
+2361;45;Fourniture ou article coupé ou troué 
+2269;04;Défaut dentelle, broderie, fourniture
+5068;03;Tâche, nuance coloris
+2124;70;"Plis sur couture "
+2381;46;Craquage de couture 
+2133;47;"Echappée de couture autre que glaçage : "
+2125;06;Point mal réglé (aspect)
+2315;06;Point mal réglé (aspect)
+2324;70;"Plis sur couture "
+2000;45;Fourniture ou article coupé ou troué 
+2238;47;"Echappée de couture autre que glaçage : "
+2320;49;"Point sauté >1 point sur la recouvrement "
+2320;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2396;73;"Vignette non conforme "
+2031;63;"Point d’arrêt début ou fin de couture non fait "
+2472;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2152;21;"Echappée de couture glaçage "
+2325;63;"Point d’arrêt début ou fin de couture non fait "
+5072;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2254;06;Point mal réglé (aspect)
+2436;03;Tâche, nuance coloris
+2127;08;Qualité des surpiqûres
+2170;70;"Plis sur couture "
+2030;47;"Echappée de couture autre que glaçage : "
+5054;45;Fourniture ou article coupé ou troué 
+1512;45;Fourniture ou article coupé ou troué 
+2134;63;"Point d’arrêt début ou fin de couture non fait "
+2185;74;Manque Accessoire
+2444;47;"Echappée de couture autre que glaçage : "
+2051;21;"Echappée de couture glaçage "
+2579;20;"Grignage couture, Embu "
+5040;74;Manque Accessoire
+2004;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2408;47;"Echappée de couture autre que glaçage : "
+2365;64;"Point mal réglé (qui glisse) "
+2004;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2077;71;"Non respect de cran ou de la ligne des creux   "
+2544;49;"Point sauté >1 point sur la recouvrement "
+5020;54;"Inversion Bonnets (devant/dos)  "
+1122;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2224;64;"Point mal réglé (qui glisse) "
+2477;63;"Point d’arrêt début ou fin de couture non fait "
+5033;65;"Point d’arrêt défectueux (non piqué) "
+2001;20;"Grignage couture, Embu "
+5072;44;Couture déformée, retournée
+2074;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+2585;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2011;70;"Plis sur couture "
+5050;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2269;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2425;46;Craquage de couture 
+2246;74;Manque Accessoire
+5069;63;"Point d’arrêt début ou fin de couture non fait "
+2165;47;"Echappée de couture autre que glaçage : "
+2375;65;"Point d’arrêt défectueux (non piqué) "
+2147;06;Point mal réglé (aspect)
+1565;47;"Echappée de couture autre que glaçage : "
+2088;05;Point sauté ( 1 seul point et sauf recouvrement)
+2200;03;Tâche, nuance coloris
+5030;02;Mauvais épluchage (poste de dégarnissage)
+2080;72;"Décalage de couture côté >1mm  "
+2316;44;Couture déformée, retournée
+2097;45;Fourniture ou article coupé ou troué 
+2504;64;"Point mal réglé (qui glisse) "
+2370;04;Défaut dentelle, broderie, fourniture
+2133;05;Point sauté ( 1 seul point et sauf recouvrement)
+2052;70;"Plis sur couture "
+2375;47;"Echappée de couture autre que glaçage : "
+5050;06;Point mal réglé (aspect)
+2360;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2191;47;"Echappée de couture autre que glaçage : "
+2211;45;Fourniture ou article coupé ou troué 
+2185;72;"Décalage de couture côté >1mm  "
+2276;03;Tâche, nuance coloris
+2152;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5040;64;"Point mal réglé (qui glisse) "
+2240;65;"Point d’arrêt défectueux (non piqué) "
+2331;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2590;45;Fourniture ou article coupé ou troué 
+2105;49;"Point sauté >1 point sur la recouvrement "
+2335;72;"Décalage de couture côté >1mm  "
+2005;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2150;20;"Grignage couture, Embu "
+1565;65;"Point d’arrêt défectueux (non piqué) "
+2316;66;Symétrie des mesures non respectés >2mm (décoché)
+5031;46;Craquage de couture 
+2049;45;Fourniture ou article coupé ou troué 
+"2184 ";08;Qualité des surpiqûres
+2150;54;"Inversion Bonnets (devant/dos)  "
+2164;47;"Echappée de couture autre que glaçage : "
+5050;64;"Point mal réglé (qui glisse) "
+2388;47;"Echappée de couture autre que glaçage : "
+2215;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5020;58;"Armature inversée  "
+2073;45;Fourniture ou article coupé ou troué 
+2352;20;"Grignage couture, Embu "
+9091;47;"Echappée de couture autre que glaçage : "
+2531;45;Fourniture ou article coupé ou troué 
+2049;20;"Grignage couture, Embu "
+1096;04;Défaut dentelle, broderie, fourniture
+2061;70;"Plis sur couture "
+2070;47;"Echappée de couture autre que glaçage : "
+5020;49;"Point sauté >1 point sur la recouvrement "
+2211;20;"Grignage couture, Embu "
+2246;44;Couture déformée, retournée
+2383;46;Craquage de couture 
+2040;45;Fourniture ou article coupé ou troué 
+2087;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+5053;21;"Echappée de couture glaçage "
+2380;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2445;47;"Echappée de couture autre que glaçage : "
+5040;72;"Décalage de couture côté >1mm  "
+2250;47;"Echappée de couture autre que glaçage : "
+2138;72;"Décalage de couture côté >1mm  "
+2280;03;Tâche, nuance coloris
+2338;45;Fourniture ou article coupé ou troué 
+2110;70;"Plis sur couture "
+2079;66;Symétrie des mesures non respectés >2mm (décoché)
+2381;44;Couture déformée, retournée
+2164;65;"Point d’arrêt défectueux (non piqué) "
+2117;04;Défaut dentelle, broderie, fourniture
+2314;55;"Erreur de taille de bonnet  "
+2005;06;Point mal réglé (aspect)
+2120;47;"Echappée de couture autre que glaçage : "
+2262;45;Fourniture ou article coupé ou troué 
+2399;44;Couture déformée, retournée
+1999;45;Fourniture ou article coupé ou troué 
+2070;75;Séparateur incliné
+2020;71;"Non respect de cran ou de la ligne des creux   "
+2326;72;"Décalage de couture côté >1mm  "
+2378;70;"Plis sur couture "
+2247;04;Défaut dentelle, broderie, fourniture
+2445;75;Séparateur incliné
+2269;08;Qualité des surpiqûres
+2201;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2183;44;Couture déformée, retournée
+2049;75;Séparateur incliné
+2326;64;"Point mal réglé (qui glisse) "
+2578;06;Point mal réglé (aspect)
+2218;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2011;63;"Point d’arrêt début ou fin de couture non fait "
+5072;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2320;23;"Décalage agrafage "
+2117;72;"Décalage de couture côté >1mm  "
+2200;70;"Plis sur couture "
+2144;70;"Plis sur couture "
+2083;46;Craquage de couture 
+2256;06;Point mal réglé (aspect)
+2050;47;"Echappée de couture autre que glaçage : "
+2269;46;Craquage de couture 
+2247;72;"Décalage de couture côté >1mm  "
+2381;51;"Solidité des nœuds "
+2097;21;"Echappée de couture glaçage "
+2210;49;"Point sauté >1 point sur la recouvrement "
+1096;72;"Décalage de couture côté >1mm  "
+2185;64;"Point mal réglé (qui glisse) "
+2040;20;"Grignage couture, Embu "
+2213;47;"Echappée de couture autre que glaçage : "
+2445;45;Fourniture ou article coupé ou troué 
+2097;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2001;07;Bretelle mal positionnée sur SG autre que balconnet
+2185;06;Point mal réglé (aspect)
+2246;08;Qualité des surpiqûres
+2312;05;Point sauté ( 1 seul point et sauf recouvrement)
+2080;06;Point mal réglé (aspect)
+2215;45;Fourniture ou article coupé ou troué 
+2186;72;"Décalage de couture côté >1mm  "
+2124;03;Tâche, nuance coloris
+2087;45;Fourniture ou article coupé ou troué 
+5072;74;Manque Accessoire
+2504;72;"Décalage de couture côté >1mm  "
+2209;04;Défaut dentelle, broderie, fourniture
+2070;45;Fourniture ou article coupé ou troué 
+5040;06;Point mal réglé (aspect)
+2240;47;"Echappée de couture autre que glaçage : "
+2104;04;Défaut dentelle, broderie, fourniture
+2388;45;Fourniture ou article coupé ou troué 
+2123;70;"Plis sur couture "
+2220;63;"Point d’arrêt début ou fin de couture non fait "
+2141;75;Séparateur incliné
+2005;44;Couture déformée, retournée
+2191;45;Fourniture ou article coupé ou troué 
+2172;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2280;70;"Plis sur couture "
+1603;75;Séparateur incliné
+2300;65;"Point d’arrêt défectueux (non piqué) "
+1123;46;Craquage de couture 
+2007;49;"Point sauté >1 point sur la recouvrement "
+2086;54;"Inversion Bonnets (devant/dos)  "
+2030;05;Point sauté ( 1 seul point et sauf recouvrement)
+2040;21;"Echappée de couture glaçage "
+2117;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2473;64;"Point mal réglé (qui glisse) "
+1600;72;"Décalage de couture côté >1mm  "
+2238;67;Symétrie des mesures non respectés  > 3mm (transversale, Laminette décolleté, Barrettes, Bandes), sauf décolleté coque ou spacer voir tolérance fiche technique)
+5999;46;Craquage de couture 
+2300;47;"Echappée de couture autre que glaçage : "
+2248;02;Mauvais épluchage (poste de dégarnissage)
+2032;03;Tâche, nuance coloris
+2578;44;Couture déformée, retournée
+5054;65;"Point d’arrêt défectueux (non piqué) "
+2383;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2352;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2220;70;"Plis sur couture "
+2150;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2256;72;"Décalage de couture côté >1mm  "
+5054;47;"Echappée de couture autre que glaçage : "
+2170;61;"Bretelle ou barrette vissée  "
+2123;71;"Non respect de cran ou de la ligne des creux   "
+2052;71;"Non respect de cran ou de la ligne des creux   "
+5020;02;Mauvais épluchage (poste de dégarnissage)
+2215;21;"Echappée de couture glaçage "
+2373;70;"Plis sur couture "
+"2028 ";45;Fourniture ou article coupé ou troué 
+2050;65;"Point d’arrêt défectueux (non piqué) "
+9090;45;Fourniture ou article coupé ou troué 
+2097;47;"Echappée de couture autre que glaçage : "
+2331;46;Craquage de couture 
+2276;01;Mesures
+2241;70;"Plis sur couture "
+2316;06;Point mal réglé (aspect)
+2020;03;Tâche, nuance coloris
+2030;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2285;44;Couture déformée, retournée
+2375;05;Point sauté ( 1 seul point et sauf recouvrement)
+2190;54;"Inversion Bonnets (devant/dos)  "
+2483;47;"Echappée de couture autre que glaçage : "
+2215;54;"Inversion Bonnets (devant/dos)  "
+5050;66;Symétrie des mesures non respectés >2mm (décoché)
+2165;05;Point sauté ( 1 seul point et sauf recouvrement)
+2083;74;Manque Accessoire
+2504;04;Défaut dentelle, broderie, fourniture
+2262;47;"Echappée de couture autre que glaçage : "
+2418;46;Craquage de couture 
+2477;70;"Plis sur couture "
+2330;01;Mesures
+2172;06;Point mal réglé (aspect)
+2050;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2472;46;Craquage de couture 
+2086;09;Longueur point d’arrêt (sans échappé, sans trou, non coupé)
+2280;63;"Point d’arrêt début ou fin de couture non fait "
+2244;61;"Bretelle ou barrette vissée  "
+2134;70;"Plis sur couture "
+1096;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2141;47;"Echappée de couture autre que glaçage : "
+5004;45;Fourniture ou article coupé ou troué 
+2433;44;Couture déformée, retournée
+5040;04;Défaut dentelle, broderie, fourniture
+2238;65;"Point d’arrêt défectueux (non piqué) "
+2079;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2218;70;"Plis sur couture "
+2370;64;"Point mal réglé (qui glisse) "
+2133;65;"Point d’arrêt défectueux (non piqué) "
+2320;45;Fourniture ou article coupé ou troué 
+2388;20;"Grignage couture, Embu "
+2381;42;Mesures : Laminette décolleté, pinces, assemblage gorge, surpiqûre gorge, baleines dos : >ou <3mm hors tolérance 
+2133;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+5020;56;"Erreur référence armature  "
+2138;04;Défaut dentelle, broderie, fourniture
+2209;49;"Point sauté >1 point sur la recouvrement "
+2080;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2150;47;"Echappée de couture autre que glaçage : "
+2425;44;Couture déformée, retournée
+2586;45;Fourniture ou article coupé ou troué 
+2183;72;"Décalage de couture côté >1mm  "
+2340;70;"Plis sur couture "
+2246;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2250;20;"Grignage couture, Embu "
+1122;22;"Nombre de points >1pt ou < 1pt par rapport au nombre de points demandé  "
+2269;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+5045;65;"Point d’arrêt défectueux (non piqué) "
+2592;70;"Plis sur couture "
+TACHE;03;Tâche, nuance coloris
+2120;05;Point sauté ( 1 seul point et sauf recouvrement)
+2310;45;Fourniture ou article coupé ou troué 
+5053;47;"Echappée de couture autre que glaçage : "
+2083;44;Couture déformée, retournée
+2586;54;"Inversion Bonnets (devant/dos)  "
+9000;72;"Décalage de couture côté >1mm  "
+2352;47;"Echappée de couture autre que glaçage : "
+2049;47;"Echappée de couture autre que glaçage : "
+2246;72;"Décalage de couture côté >1mm  "
+2300;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2250;05;Point sauté ( 1 seul point et sauf recouvrement)
+5050;04;Défaut dentelle, broderie, fourniture
+2247;64;"Point mal réglé (qui glisse) "
+5025;03;Tâche, nuance coloris
+2381;72;"Décalage de couture côté >1mm  "
+1123;44;Couture déformée, retournée
+2120;20;"Grignage couture, Embu "
+2544;45;Fourniture ou article coupé ou troué 
+2314;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2094;49;"Point sauté >1 point sur la recouvrement "
+2172;53;"Valeur de couture assemblage et montage bonnet  > ou < 1mm "
+2344;44;Couture déformée, retournée
+5030;62;"Pose agrafage sans point d’arrêt "
+2200;63;"Point d’arrêt début ou fin de couture non fait "
+2211;47;"Echappée de couture autre que glaçage : "
+5005;45;Fourniture ou article coupé ou troué 
+1529;74;Manque Accessoire
+5046;70;"Plis sur couture "
+2531;47;"Echappée de couture autre que glaçage : "
+2150;75;Séparateur incliné
+2432;72;"Décalage de couture côté >1mm  "
+2185;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+2079;06;Point mal réglé (aspect)
+5018;64;"Point mal réglé (qui glisse) "
+2170;48;Point sauté (à partir de 2 points) sur la même couture sauf recouvrement
+2445;21;"Echappée de couture glaçage "
+5040;51;"Solidité des nœuds "
+2352;75;Séparateur incliné
+5026;57;"Erreur taille armature  "
+1603;47;"Echappée de couture autre que glaçage : "
+2821;08;Qualité des surpiqûres
+2193;71;"Non respect de cran ou de la ligne des creux   "
+2313;70;"Plis sur couture "
+2581;73;"Vignette non conforme "
+1116;70;"Plis sur couture "
+2543;49;"Point sauté >1 point sur la recouvrement "
+5020;62;"Pose agrafage sans point d’arrêt "
+2320;75;Séparateur incliné
+2497;47;"Echappée de couture autre que glaçage : "
+2165;20;"Grignage couture, Embu "
+1600;04;Défaut dentelle, broderie, fourniture
+2032;63;"Point d’arrêt début ou fin de couture non fait "
+2375;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "
+2215;47;"Echappée de couture autre que glaçage : "
+2380;46;Craquage de couture 
+2345;72;"Décalage de couture côté >1mm  "
+2365;06;Point mal réglé (aspect)
+2375;20;"Grignage couture, Embu "
+2381;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2823;47;"Echappée de couture autre que glaçage : "
+2080;66;Symétrie des mesures non respectés >2mm (décoché)
+2252;70;"Plis sur couture "
+2104;64;"Point mal réglé (qui glisse) "
+2330;63;"Point d’arrêt début ou fin de couture non fait "
+2200;55;"Erreur de taille de bonnet  "
+2416;65;"Point d’arrêt défectueux (non piqué) "
+5053;45;Fourniture ou article coupé ou troué 
+2245;46;Craquage de couture 
+2361;05;Point sauté ( 1 seul point et sauf recouvrement)
+2220;03;Tâche, nuance coloris
+2049;54;"Inversion Bonnets (devant/dos)  "
+2020;70;"Plis sur couture "
+2209;64;"Point mal réglé (qui glisse) "
+5025;70;"Plis sur couture "
+5050;72;"Décalage de couture côté >1mm  "
+5040;50;"Raccord sur toute couture sauf le glaçage, montage ou assemblage à la piqueuse plate (coutures cachées) "
+5068;65;"Point d’arrêt défectueux (non piqué) "
+2240;20;"Grignage couture, Embu "
+2285;74;Manque Accessoire
+2073;47;"Echappée de couture autre que glaçage : "
+2083;08;Qualité des surpiqûres
+5005;75;Séparateur incliné
+2352;45;Fourniture ou article coupé ou troué 
+2347;20;"Grignage couture, Embu "
+2040;47;"Echappée de couture autre que glaçage : "
+2316;68;Symétrie >5mm (dessous de bras, basques, haut dos, cuisse)
+2246;06;Point mal réglé (aspect)
+1547;65;"Point d’arrêt défectueux (non piqué) "
+2124;63;"Point d’arrêt début ou fin de couture non fait "
+2590;47;"Echappée de couture autre que glaçage : "
+2319;49;"Point sauté >1 point sur la recouvrement "
+2185;04;Défaut dentelle, broderie, fourniture
+2183;06;Point mal réglé (aspect)
+2310;54;"Inversion Bonnets (devant/dos)  "
+2031;71;"Non respect de cran ou de la ligne des creux   "
+2030;65;"Point d’arrêt défectueux (non piqué) "
+2452;70;"Plis sur couture "
+5049;74;Manque Accessoire
+2031;70;"Plis sur couture "
+2300;20;"Grignage couture, Embu "
+2493;49;"Point sauté >1 point sur la recouvrement "
+2150;45;Fourniture ou article coupé ou troué 
+2005;72;"Décalage de couture côté >1mm  "
+TACHE;70;"Plis sur couture "
+2004;08;Qualité des surpiqûres
+2335;04;Défaut dentelle, broderie, fourniture
+2079;44;Couture déformée, retournée
+2301;43;Mesures : Elastiquage dessous de bras, basque, taille, cuisse > ou < 5mm hors tolérance 
+2592;71;"Non respect de cran ou de la ligne des creux   "
+2355;63;"Point d’arrêt début ou fin de couture non fait "
+5019;03;Tâche, nuance coloris
+2170;01;Mesures
+2115;06;Point mal réglé (aspect)
+2325;70;"Plis sur couture "
+2579;45;Fourniture ou article coupé ou troué 
+NUANCE;45;Fourniture ou article coupé ou troué 
+2381;06;Point mal réglé (aspect)
+2176;46;Craquage de couture 
+"2184 ";44;Couture déformée, retournée
+5050;51;"Solidité des nœuds "
+2193;70;"Plis sur couture "
+2315;46;Craquage de couture 
+2087;47;"Echappée de couture autre que glaçage : "
+2287;64;"Point mal réglé (qui glisse) "
+5040;66;Symétrie des mesures non respectés >2mm (décoché)
+2106;45;Fourniture ou article coupé ou troué 
+2332;44;Couture déformée, retournée
+5030;49;"Point sauté >1 point sur la recouvrement "
+2070;52;"Valeur de couture > ou = 2mm par rapport à la valeur demandée "

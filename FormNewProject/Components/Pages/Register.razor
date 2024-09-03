@@ -1,0 +1,157 @@
+@page "/Register"
+
+@using System.ComponentModel.DataAnnotations
+@using System.Text
+@using FormNewProject.Components.Account
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.WebUtilities
+@using FormNewProject.Data
+@using Microsoft.EntityFrameworkCore
+@inject RoleManager<IdentityRole> RoleManager
+@inject UserManager<ApplicationUser> UserManager
+@inject IUserStore<ApplicationUser> UserStore
+@inject SignInManager<ApplicationUser> SignInManager
+@inject ILogger<Register> Logger
+@inject NavigationManager NavigationManager
+<PageTitle>Register</PageTitle>
+
+<MudText Typo="Typo.h3" GutterBottom="true">Register</MudText>
+
+<MudGrid>
+    <MudItem md="6">
+        <EditForm Model="Input" asp-route-returnUrl="@ReturnUrl" method="post" OnValidSubmit="RegisterUser" FormName="register">
+            <DataAnnotationsValidator />
+
+            <MudText Typo="Typo.body1" GutterBottom="true">Create a new account.</MudText>
+
+            <MudGrid>
+                <MudItem md="12">
+                    <MudStaticTextField For="@(() => Input.Email)" @bind-Value="Input.Email"
+                                        Label="Email" Placeholder="name@example.com"
+                                        UserAttributes="@(new() { { "autocomplete", "true" }, { "aria-required", "true" } } )" />
+                </MudItem>
+                <MudItem md="12">
+                    <MudStaticTextField For="@(() => Input.Password)" @bind-Value="Input.Password"
+                                        Label="Password" InputType="InputType.Password" Placeholder="password"
+                                        UserAttributes="@(new() { { "autocomplete", "new-password" }, { "aria-required", "true" } } )" />
+                </MudItem>
+                <MudItem md="12">
+                    <MudStaticTextField For="@(() => Input.ConfirmPassword)" @bind-Value="Input.ConfirmPassword"
+                                        Label="Confirm Password" InputType="InputType.Password" Placeholder="confirm password"
+                                        UserAttributes="@(new() { { "autocomplete", "new-password" }, { "aria-required", "true" } } )" />
+                </MudItem>
+                <MudItem md="12">
+                    <MudSelect T="IdentityRole" Label="Select Role" @bind-Value="Input.SelectedRole">
+                        @foreach (var role in Roles)
+                        {
+                            <MudSelectItem T="IdentityRole" Value="role">@role.Name</MudSelectItem>
+                        }
+                    </MudSelect>
+                </MudItem>
+                <MudItem md="12">
+                    <MudStaticButton Variant="Variant.Filled" Color="Color.Primary" FullWidth="true" FormAction="FormAction.Submit">Register</MudStaticButton>
+                </MudItem>
+            </MudGrid>
+        </EditForm>
+    </MudItem>
+</MudGrid>
+
+@code {
+    private IEnumerable<IdentityError>? identityErrors;
+
+    [SupplyParameterFromForm]
+    private InputModel Input { get; set; } = new();
+
+    [SupplyParameterFromQuery] private string? ReturnUrl { get; set; } = "/";
+
+    private string SelectedRole = "";
+    private List<IdentityRole> Roles { get; set; } = new();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        Roles = await RoleManager.Roles.ToListAsync();
+    }
+
+    public async Task RegisterUser(EditContext editContext)
+    {
+        var user = CreateUser();
+        await UserStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
+        var emailStore = GetEmailStore();
+        await emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+        var result = await UserManager.CreateAsync(user, Input.Password);
+
+        if (!result.Succeeded)
+        {
+            identityErrors = result.Errors;
+            return;
+        }
+
+        Logger.LogInformation("User created a new account with password.");
+
+        var selectedRole = Input.SelectedRole;
+        if (!string.IsNullOrEmpty(selectedRole.Name))
+        {
+            var roleResult = await UserManager.AddToRoleAsync(user, selectedRole.Name);
+            if (!roleResult.Succeeded)
+            {
+                identityErrors = roleResult.Errors;
+                return;
+            }
+        }
+
+
+        if (UserManager.Options.SignIn.RequireConfirmedAccount)
+        {
+            NavigationManager.NavigateTo($"Account/RegisterConfirmation?email={Input.Email}&returnUrl={ReturnUrl}", true);
+            return;
+        }
+
+        await SignInManager.SignInAsync(user, isPersistent: false);
+        NavigationManager.NavigateTo(ReturnUrl ?? "/", true);
+    }
+    
+    private ApplicationUser CreateUser()
+    {
+        try
+        {
+            return Activator.CreateInstance<ApplicationUser>();
+        }
+        catch
+        {
+            throw new InvalidOperationException($"Can't create an instance of '{nameof(ApplicationUser)}'. " +
+                $"Ensure that '{nameof(ApplicationUser)}' is not an abstract class and has a parameterless constructor.");
+        }
+    }
+
+    private IUserEmailStore<ApplicationUser> GetEmailStore()
+    {
+        if (!UserManager.SupportsUserEmail)
+        {
+            throw new NotSupportedException("The default UI requires a user store with email support.");
+        }
+        return (IUserEmailStore<ApplicationUser>)UserStore;
+    }
+
+    private sealed class InputModel
+    {
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email")]
+        public string Email { get; set; } = "";
+
+        [Required]
+        [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+        [DataType(DataType.Password)]
+        [Display(Name = "Password")]
+        public string Password { get; set; } = "";
+
+        [DataType(DataType.Password)]
+        [Display(Name = "Confirm password")]
+        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        public string ConfirmPassword { get; set; } = "";
+
+        [Required]
+        public IdentityRole SelectedRole { get; set; } = new ();
+    }
+    
+}

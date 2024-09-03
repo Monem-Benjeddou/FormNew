@@ -1,0 +1,55 @@
+﻿@page "/"
+@using MudBlazor
+
+<PageTitle>Welcome to FormNewProject</PageTitle>
+
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="px-5 py-6">
+    <MudPaper Elevation="4" Class="p-4 text-center px-5 py-6">
+        <MudText Typo="Typo.h3" Color="Color.Primary" Class="mb-2">Welcome to FormNewProject</MudText>
+        <MudText Typo="Typo.h6" Class="mb-4">
+            A streamlined platform to manage and organize your affectations with ease.
+        </MudText>
+        <MudButton Variant="Variant.Filled" Color="Color.Secondary" Href="/affectations-list" Class="mb-4">
+            Get Started
+        </MudButton>
+        <MudDivider Class="my-4" />
+        <MudText Typo="Typo.body1" Class="mb-3">
+            <strong>FormNewProject</strong> is designed to help you efficiently manage project tasks, prioritize work, and ensure accountability by assigning tasks to the right team members.
+        </MudText>
+        <MudText Typo="Typo.body1" Class="mb-5">
+            With intuitive controls, easy filtering, and a sleek interface, it’s never been easier to keep your projects on track.
+        </MudText>
+        <MudDivider Class="my-4" />
+        <MudText Typo="Typo.h5" Class="mb-3" Color="Color.Primary">Key Features</MudText>
+        <div class="row text-center">
+            <div class="col-md-4 mb-4">
+                <MudIcon Icon="@Icons.Material.Filled.ViewList" Size="Size.Large" Color="Color.Info" />
+                <MudText Typo="Typo.h6" Class="mt-2">Comprehensive Task Management</MudText>
+                <MudText Typo="Typo.body2">
+                    Keep track of all your project tasks in one place.
+                </MudText>
+            </div>
+            <div class="col-md-4 mb-4">
+                <MudIcon Icon="@Icons.Material.Filled.Search" Size="Size.Large" Color="Color.Info" />
+                <MudText Typo="Typo.h6" Class="mt-2">Advanced Filtering</MudText>
+                <MudText Typo="Typo.body2">
+                    Quickly find tasks by various criteria.
+                </MudText>
+            </div>
+            <div class="col-md-4 mb-4">
+                <MudIcon Icon="@Icons.Material.Filled.PersonAdd" Size="Size.Large" Color="Color.Info" />
+                <MudText Typo="Typo.h6" Class="mt-2">Easy Task Assignment</MudText>
+                <MudText Typo="Typo.body2">
+                    Assign tasks to team members effortlessly.
+                </MudText>
+            </div>
+        </div>
+        <MudDivider Class="my-4" />
+        <MudText Typo="Typo.body1" Class="mb-4">
+            Ready to optimize your project management process? Click the button below to start managing your affectations now!
+        </MudText>
+        <MudButton Variant="Variant.Filled" Color="Color.Primary" Href="/affectations-list">
+            Manage Affectations
+        </MudButton>
+    </MudPaper>
+</MudContainer>
