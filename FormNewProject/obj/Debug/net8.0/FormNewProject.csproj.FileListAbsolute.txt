@@ -454,3 +454,4 @@ Z:/Users/macbook/RiderProjects/FormNew/FormNewProject/bin/Debug/net8.0/MudBlazor
 /Users/macbook/RiderProjects/FormNew/FormNewProject/obj/Debug/net8.0/FormNewP.6737B0A0.Up2Date
 /Users/macbook/RiderProjects/FormNew/FormNewProject/obj/Debug/net8.0/FormNewProject.genruntimeconfig.cache
 /Users/macbook/RiderProjects/FormNew/FormNewProject/obj/Debug/net8.0/ref/FormNewProject.dll
+/Users/macbook/RiderProjects/FormNew/FormNewProject/obj/Debug/net8.0/FormNewProject.sourcelink.json
