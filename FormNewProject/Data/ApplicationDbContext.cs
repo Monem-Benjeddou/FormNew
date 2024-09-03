@@ -21,12 +21,12 @@ namespace FormNewProject.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            /*var currentDirectory = Directory.GetCurrentDirectory();
+            var currentDirectory = Directory.GetCurrentDirectory();
             var reclamations = SeedReclamationsFromCsv($"{currentDirectory}/Data/SeedData/reclamation.csv");
             modelBuilder.Entity<Reclamation>().HasData(reclamations);
 
             var defaults = SeedDefautsFromCsv($"{currentDirectory}/Data/SeedData/defaults.csv");
-            modelBuilder.Entity<Defaut>().HasData(defaults);*/
+            modelBuilder.Entity<Defaut>().HasData(defaults);
 
             SeedRolesAndAdminUser(modelBuilder);
         }
