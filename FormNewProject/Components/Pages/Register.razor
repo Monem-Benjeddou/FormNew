@@ -2,6 +2,7 @@
 
 @using System.ComponentModel.DataAnnotations
 @using System.Text
+@using System.Text.RegularExpressions
 @using FormNewProject.Components.Account
 @using Microsoft.AspNetCore.Identity
 @using Microsoft.AspNetCore.WebUtilities
@@ -24,11 +25,21 @@
 
             <MudText Typo="Typo.body1" GutterBottom="true">Create a new account.</MudText>
 
+            @if (identityErrors != null)
+            {
+            <MudAlert Severity="Severity.Error">
+                @foreach (var error in identityErrors)
+                {
+                <MudText Typo="Typo.caption">@error.Description</MudText>
+                }
+            </MudAlert>
+            }
+
             <MudGrid>
                 <MudItem md="12">
-                    <MudStaticTextField For="@(() => Input.Email)" @bind-Value="Input.Email"
-                                        Label="Email" Placeholder="name@example.com"
-                                        UserAttributes="@(new() { { "autocomplete", "true" }, { "aria-required", "true" } } )" />
+                    <MudStaticTextField For="@(() => Input.UserName)" @bind-Value="Input.UserName"
+                                        Label="Username" Placeholder="username"
+                                        UserAttributes="@(new() { { "autocomplete", "username" }, { "aria-required", "true" } } )" />
                 </MudItem>
                 <MudItem md="12">
                     <MudStaticTextField For="@(() => Input.Password)" @bind-Value="Input.Password"
@@ -42,7 +53,7 @@
                 </MudItem>
                 <MudItem md="12">
                     <MudSelect T="IdentityRole" Label="Select Role" @bind-Value="Input.SelectedRole">
-                        @foreach (var role in Roles)
+                        @foreach (var role in Roles.Where(x=>x.Name!="Admin" ).ToList()??new())
                         {
                             <MudSelectItem T="IdentityRole" Value="role">@role.Name</MudSelectItem>
                         }
@@ -74,10 +85,29 @@
 
     public async Task RegisterUser(EditContext editContext)
     {
+        // Check if the username already exists
+        var existingUser = await UserManager.FindByNameAsync(Input.UserName);
+        if (existingUser != null)
+        {
+            identityErrors = new List<IdentityError>
+            {
+                new IdentityError
+                {
+                    Description = "Username is already taken. Please choose a different one."
+                }
+            };
+            return;
+        }
+
+        // Create a new user instance
         var user = CreateUser();
-        await UserStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
+        await UserStore.SetUserNameAsync(user, Input.UserName, CancellationToken.None);
+
+        // Set the email based on the username
         var emailStore = GetEmailStore();
-        await emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+        await emailStore.SetEmailAsync(user, $"{Input.UserName}@simotex.com", CancellationToken.None);
+
+        // Attempt to create the user with the specified password
         var result = await UserManager.CreateAsync(user, Input.Password);
 
         if (!result.Succeeded)
@@ -88,6 +118,7 @@
 
         Logger.LogInformation("User created a new account with password.");
 
+        // Assign the selected role to the user
         var selectedRole = Input.SelectedRole;
         if (!string.IsNullOrEmpty(selectedRole.Name))
         {
@@ -99,10 +130,10 @@
             }
         }
 
-
+        // Handle sign-in and navigation after successful registration
         if (UserManager.Options.SignIn.RequireConfirmedAccount)
         {
-            NavigationManager.NavigateTo($"Account/RegisterConfirmation?email={Input.Email}&returnUrl={ReturnUrl}", true);
+            NavigationManager.NavigateTo($"Account/RegisterConfirmation?email={user.Email}&returnUrl={ReturnUrl}", true);
             return;
         }
 
@@ -135,13 +166,13 @@
     private sealed class InputModel
     {
         [Required]
-        [EmailAddress]
-        [Display(Name = "Email")]
-        public string Email { get; set; } = "";
+        [Display(Name = "Username")]
+        public string UserName { get; set; } = "";
 
         [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
         [DataType(DataType.Password)]
+        [PasswordComplexity(ErrorMessage = "Password must contain at least one uppercase letter, one lowercase letter, one digit, and one special character.")]
         [Display(Name = "Password")]
         public string Password { get; set; } = "";
 
@@ -153,5 +184,27 @@
         [Required]
         public IdentityRole SelectedRole { get; set; } = new ();
     }
-    
+
+    public class PasswordComplexityAttribute : ValidationAttribute
+    {
+        protected override ValidationResult? IsValid(object? value, ValidationContext validationContext)
+        {
+            if (value is string password)
+            {
+                if (!Regex.IsMatch(password, @"[A-Z]"))
+                    return new ValidationResult("Password must contain at least one uppercase letter.");
+
+                if (!Regex.IsMatch(password, @"[a-z]"))
+                    return new ValidationResult("Password must contain at least one lowercase letter.");
+
+                if (!Regex.IsMatch(password, @"\d"))
+                    return new ValidationResult("Password must contain at least one digit.");
+
+                if (!Regex.IsMatch(password, @"[\W_]"))
+                    return new ValidationResult("Password must contain at least one special character.");
+            }
+
+            return ValidationResult.Success;
+        }
+    }
 }

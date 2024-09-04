@@ -8,7 +8,7 @@
 
 <PageTitle>Affectations</PageTitle>
 
-<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="mt-5" >
+<MudContainer MaxWidth="MaxWidth.ExtraExtraLarge" Class="mt-5">
     <MudPaper Elevation="4" Class="px-4 py-4 mb-4">
         <div class="d-flex justify-content-between align-items-center mx-3 py-3">
             <MudText Typo="Typo.h4" GutterBottom="true">Manage Affectations</MudText>
@@ -27,6 +27,7 @@
                 <MudTh Class="text-center">OF</MudTh>
                 <MudTh Class="text-center">Priorite</MudTh>
                 <MudTh Class="text-center">Assigné à</MudTh>
+                <MudTh Class="text-center">Actions</MudTh>
             </HeaderContent>
             <RowTemplate>
                 <MudTd DataLabel="Chaine" Class="text-center">@context.Reclamation.Chaine</MudTd>
@@ -34,6 +35,11 @@
                 <MudTd DataLabel="OF" Class="text-center">@context.Reclamation.OF</MudTd>
                 <MudTd DataLabel="Priorite" Class="text-center">@context.Priority</MudTd>
                 <MudTd DataLabel="Assigné à" Class="text-center">@context.UserId</MudTd>
+                <MudTd DataLabel="Actions" Class="text-center">
+                    <MudButton Variant="Variant.Text" Color="Color.Error" OnClick="@(async () => await DeleteAffectation(context))">
+                        <MudIcon Icon="@Icons.Material.Filled.Delete"/>
+                    </MudButton>
+                </MudTd>
             </RowTemplate>
             <PagerContent>
                 <MudTablePager/>
@@ -88,6 +94,24 @@
                 await OnParametersSetAsync();
                 StateHasChanged();
             }
+        }
+    }
+
+    private async Task DeleteAffectation(Affectation affectation)
+    {
+        var parameters = new DialogParameters { ["ContentText"] = "Are you sure you want to delete this affectation?" };
+        var options = new DialogOptions { CloseButton = true, MaxWidth = MaxWidth.Small };
+        var dialog = await DialogService.ShowAsync<ConfirmDialog>("Delete Affectation", parameters, options);
+        var result = await dialog.Result;
+        dialog.Close();
+
+        if (!result.Canceled)
+        {
+            context.Affectations.Remove(affectation);
+            await context.SaveChangesAsync();
+            affectations.Remove(affectation);
+
+            StateHasChanged();
         }
     }
 
